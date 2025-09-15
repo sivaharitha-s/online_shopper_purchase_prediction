@@ -1,0 +1,1009 @@
+User_ID,Age,Gender,Browser,Time_on_Site,Pages_Visited,Session_Duration,Bounce_Rate,Device_Type,Country,Referral_Source,Previous_Purchases,Cart_Value,Discount_Applied,Ad_Clicked,Membership_Status,Preferred_Payment_Method,Purchase_Made,Time_of_Day,Feedback_Score
+3,39,Female,Edge,11.07,11,556,74.25,Mobile,Canada,Facebook,0,36.66,Yes,No,Platinum,Net Banking,Yes,Morning,1
+4,,Female,Safari,21.22,7,462,58.15,Desktop,Australia,Google,8,358.85,Yes,No,Gold,PayPal,Yes,Afternoon,2
+5,31,Male,Firefox,16.84,15,242,48.67,Tablet,India,Facebook,4,40.85,No,Yes,Gold,Credit Card,No,Afternoon,4
+,21,Male,Edge,16.12,17,356,,Desktop,Australia,Direct,1,,Yes,No,Gold,Net Banking,Yes,Afternoon,4
+7,50,Female,Safari,15.37,15,296,35.15,Mobile,Canada,Facebook,2,337.93,Yes,No,Platinum,Credit Card,Yes,Morning,2
+8,41,Male,Edge,14.9,10,333,67.44,Desktop,USA,Instagram,0,189.86,Yes,Yes,Silver,Net Banking,No,Night,5
+9,42,Female,Safari,8.65,4,286,6.53,Mobile,Canada,Facebook,5,441.59,No,Yes,Platinum,PayPal,No,Evening,2
+10,39,Female,Chrome,,17,352,58.49,Tablet,UK,Facebook,5,402.25,No,No,Platinum,UPI,Yes,Evening,2
+11,46,Male,Safari,24.63,4,193,27.87,Mobile,Australia,Instagram,2,463.72,Yes,No,Gold,Credit Card,No,Afternoon,1
+12,31,Female,Edge,18.46,11,519,46.66,Tablet,India,Direct,2,164.3,No,Yes,Gold,Net Banking,Yes,Night,2
+13,43,Female,Chrome,17.19,4,201,55.9,Tablet,India,Instagram,6,,Yes,Yes,Silver,UPI,No,Afternoon,3
+,42,Female,Firefox,7.33,12,355,,Mobile,Canada,Google,0,407.62,No,Yes,Gold,Credit Card,No,Night,3
+15,41,Female,Edge,20.43,10,232,57.91,Tablet,Canada,Direct,4,119.26,No,No,Gold,Credit Card,Yes,Night,4
+16,23,Female,Firefox,,14,284,22.72,Mobile,Canada,Direct,2,238.91,No,Yes,Silver,UPI,No,Night,5
+17,36,Male,Firefox,20.84,18,346,7.95,Desktop,India,Instagram,4,410.49,Yes,No,Gold,PayPal,Yes,Morning,4
+18,39,Female,Edge,10.48,6,310,62.7,Tablet,USA,Facebook,3,115.91,No,No,Gold,UPI,Yes,Night,1
+19,53,Male,Firefox,13,5,313,54.5,Desktop,India,Google,5,162.84,Yes,No,Gold,PayPal,Yes,Morning,2
+20,36,Female,Edge,7.57,2,263,67.18,Desktop,USA,Google,8,225.15,Yes,Yes,Platinum,Net Banking,No,Evening,4
+21,46,Male,Edge,7.15,13,231,45.94,Mobile,Canada,Direct,1,143.19,No,No,Gold,PayPal,Yes,Evening,2
+22,20,Male,Safari,12.12,14,366,82.51,Mobile,UK,Google,9,236.05,Yes,No,Platinum,Net Banking,No,Morning,4
+23,28,Male,Chrome,17.34,3,215,92.02,Tablet,India,Direct,7,14.7,No,No,Gold,Net Banking,Yes,Evening,2
+24,39,Female,Firefox,12.92,11,235,4,Mobile,Canada,Direct,1,113.97,Yes,No,Gold,Net Banking,No,Evening,4
+25,39,Male,Firefox,11.65,4,236,74.41,Desktop,India,Google,3,417.95,Yes,Yes,Platinum,Net Banking,No,Afternoon,3
+,28,Female,Chrome,16.7,13,267,3.52,Desktop,Canada,Direct,8,212.61,Yes,No,Platinum,Credit Card,No,Morning,1
+27,45,Female,Chrome,-1.21,8,158,44.51,Desktop,India,Facebook,3,321.84,No,Yes,Gold,Net Banking,No,Morning,4
+28,,Male,Chrome,12.29,8,160,46.16,Tablet,Australia,Direct,6,123.82,Yes,Yes,Silver,Credit Card,Yes,Morning,3
+29,33,Male,Chrome,16.69,13,354,69.62,Mobile,India,Facebook,4,328.44,No,No,Gold,Credit Card,Yes,Afternoon,5
+30,34,Female,Chrome,12.98,10,355,35.24,Desktop,Australia,Facebook,1,499.99,Yes,No,Platinum,Net Banking,Yes,Morning,4
+,48,Female,Safari,21.5,13,331,82.09,Tablet,USA,Facebook,7,301.69,Yes,Yes,Gold,PayPal,Yes,Evening,2
+32,46,Female,Edge,11.69,13,438,,Mobile,India,Google,9,317.9,Yes,Yes,Gold,PayPal,No,Night,1
+33,,Male,Chrome,12.04,17,212,34.25,Mobile,USA,Facebook,9,64.64,Yes,Yes,Platinum,UPI,Yes,Afternoon,3
+34,41,Female,Safari,,6,127,,Desktop,UK,Google,1,207.66,No,Yes,Silver,Credit Card,No,Afternoon,3
+35,54,Female,Chrome,11.21,2,379,68.39,Tablet,Australia,Instagram,2,431.76,Yes,No,Silver,Credit Card,No,Morning,1
+36,,Female,Chrome,16.39,17,125,7.66,Desktop,India,Facebook,9,418.79,Yes,No,Platinum,PayPal,Yes,Night,4
+37,34,Female,Firefox,19.04,12,286,36.31,Desktop,USA,Direct,6,265.98,Yes,No,Platinum,Credit Card,Yes,Night,2
+38,31,Female,Firefox,25.77,6,328,26.69,Tablet,Canada,Instagram,4,452.69,Yes,No,Gold,PayPal,Yes,Night,5
+39,,Female,Firefox,17.89,5,506,22.93,Desktop,USA,Instagram,9,80.04,No,Yes,Platinum,UPI,Yes,Evening,4
+40,34,Female,Firefox,9.11,5,245,6.1,Tablet,India,Facebook,2,,Yes,Yes,Platinum,Net Banking,Yes,Night,1
+41,28,Female,Edge,21.21,9,253,,Tablet,UK,Google,1,131.95,No,No,Gold,Net Banking,No,Morning,4
+42,29,Female,Edge,,3,366,44.62,Desktop,Australia,Instagram,5,326.33,Yes,No,Gold,Net Banking,Yes,Evening,4
+43,41,Female,Firefox,15.14,5,360,50.37,Desktop,Canada,Facebook,9,52.83,No,No,Gold,UPI,Yes,Night,1
+44,30,Female,Firefox,20.34,7,266,26.95,Mobile,USA,Instagram,0,472.37,No,Yes,Silver,Credit Card,Yes,Morning,1
+45,18,Female,Chrome,26.84,12,319,65.02,Mobile,India,Instagram,7,395.3,Yes,No,Silver,UPI,No,Evening,5
+46,17,Male,Chrome,,7,226,33.58,Tablet,India,Facebook,4,108.47,No,Yes,Platinum,Credit Card,Yes,Evening,1
+47,14,Female,Firefox,,10,345,36.72,Tablet,Australia,Direct,4,322.27,Yes,Yes,Gold,Credit Card,No,Night,1
+48,21,Female,Firefox,21.64,8,141,78.26,Tablet,Canada,Direct,1,381.98,Yes,Yes,Platinum,Net Banking,No,Evening,1
+49,23,Female,Firefox,28.28,17,591,55.2,Mobile,USA,Direct,6,112.63,No,Yes,Platinum,PayPal,No,Afternoon,3
+,25,Female,Chrome,15.72,5,372,95.32,Desktop,USA,Instagram,4,55.73,Yes,No,Silver,PayPal,Yes,Morning,1
+51,38,Female,Firefox,15.15,15,190,35.93,Desktop,USA,Google,7,,Yes,Yes,Silver,Net Banking,No,Night,1
+52,22,Male,Firefox,15.86,9,273,82.78,Mobile,Australia,Google,4,76.52,No,Yes,Platinum,Credit Card,No,Morning,1
+53,26,Female,Edge,17.25,11,195,73.83,Desktop,Australia,Instagram,8,287.2,Yes,No,Gold,UPI,No,Morning,5
+54,17,Male,Edge,7.96,13,218,89.02,Desktop,Canada,Instagram,4,217.82,Yes,No,Silver,Net Banking,Yes,Afternoon,4
+55,28,Female,Chrome,16.53,18,321,,Desktop,USA,Facebook,2,236.59,No,Yes,Silver,Net Banking,No,Evening,1
+56,42,Male,Edge,16.37,17,439,0.77,Mobile,USA,Google,1,276,No,No,Silver,UPI,Yes,Afternoon,1
+57,35,Male,Chrome,16.08,9,290,8.83,Tablet,Canada,Instagram,4,491.21,Yes,No,Platinum,Credit Card,No,Afternoon,5
+58,36,Female,Safari,15.84,10,111,,Desktop,Canada,Direct,9,398.39,Yes,Yes,Silver,Net Banking,No,Evening,4
+59,35,Male,Firefox,,5,239,39.02,Desktop,Canada,Google,9,318.44,No,No,Gold,Net Banking,Yes,Night,5
+60,22,Male,Chrome,4.49,11,245,81.91,Tablet,India,Instagram,4,188.22,Yes,Yes,Silver,Credit Card,No,Morning,2
+61,,Female,Edge,,15,309,1.2,Desktop,Canada,Facebook,5,23.26,No,Yes,Platinum,UPI,No,Night,2
+62,37,Male,Safari,19.28,2,286,80.7,Desktop,UK,Facebook,1,67.1,Yes,No,Platinum,UPI,No,Night,2
+63,45,Male,Edge,20.45,14,80,13.52,Tablet,Australia,Google,4,368.12,No,No,Platinum,PayPal,Yes,Afternoon,1
+64,39,Male,Chrome,,5,208,29.02,Mobile,Canada,Direct,0,190.91,Yes,No,Platinum,PayPal,Yes,Evening,5
+,44,Female,Safari,10.22,6,189,96.91,Mobile,India,Google,2,173.87,Yes,Yes,Gold,UPI,Yes,Evening,1
+66,,Female,Edge,18.58,15,390,5.16,Desktop,UK,Instagram,2,445.6,No,No,Platinum,PayPal,No,Morning,2
+67,20,Female,Safari,16.36,4,271,34.9,Desktop,India,Direct,2,247.41,Yes,Yes,Silver,PayPal,No,Evening,4
+68,,Female,Firefox,14.39,10,100,8.45,Tablet,India,Instagram,2,450.79,No,No,Gold,Credit Card,No,Night,4
+69,43,Male,Firefox,19.31,19,213,85.36,Tablet,India,Direct,7,444.45,No,Yes,Platinum,Net Banking,Yes,Evening,5
+70,21,Female,Safari,9.11,9,417,70.3,Desktop,India,Direct,0,49.29,No,No,Platinum,PayPal,Yes,Evening,4
+,46,Male,Edge,20.8,10,240,80.03,Desktop,USA,Instagram,5,473.23,Yes,Yes,Gold,PayPal,Yes,Night,2
+72,31,Female,Edge,7.49,4,232,52.73,Mobile,Australia,Google,5,47.71,Yes,No,Silver,Credit Card,No,Morning,5
+73,,Female,Edge,10.87,4,283,35.77,Mobile,USA,Facebook,0,482.12,No,No,Gold,UPI,Yes,Morning,5
+74,31,Male,Firefox,9.8,6,323,0.23,Mobile,UK,Direct,0,231.78,No,No,Silver,PayPal,Yes,Night,2
+75,31,Male,Chrome,12.09,8,286,27.79,Mobile,USA,Direct,2,382.82,No,No,Silver,Net Banking,No,Evening,2
+,36,Female,Chrome,16.53,16,402,51.46,Tablet,UK,Facebook,7,356.01,Yes,No,Platinum,PayPal,Yes,Evening,2
+77,31,Female,Safari,18.39,8,286,66.44,Mobile,Canada,Google,5,264.06,No,Yes,Gold,Net Banking,No,Morning,2
+78,39,Female,Edge,14.59,16,367,22.89,Mobile,UK,Facebook,3,,No,Yes,Gold,UPI,No,Morning,5
+79,25,Female,Safari,8.61,6,320,13.89,Desktop,USA,Google,4,475.46,Yes,No,Platinum,PayPal,Yes,Morning,4
+80,37,Female,Chrome,5,17,171,20.16,Mobile,USA,Direct,9,464.4,No,Yes,Platinum,Net Banking,Yes,Afternoon,2
+81,27,Male,Chrome,19.23,1,479,35.41,Desktop,UK,Direct,2,,Yes,Yes,Silver,Net Banking,No,Morning,3
+82,33,Female,Edge,,19,416,14.84,Desktop,USA,Instagram,5,332.28,No,No,Platinum,Net Banking,Yes,Evening,5
+83,21,Male,Safari,20.35,18,243,15.68,Mobile,UK,Google,5,131,No,No,Gold,UPI,No,Morning,1
+84,44,Female,Edge,,17,289,4.38,Mobile,India,Facebook,5,416.03,No,Yes,Platinum,Net Banking,Yes,Evening,4
+85,31,Female,Chrome,18.34,17,362,85.67,Desktop,Australia,Google,8,319.98,Yes,Yes,Platinum,Credit Card,Yes,Evening,5
+86,44,Male,Chrome,,12,318,21.98,Tablet,UK,Google,9,414.86,Yes,No,Platinum,UPI,No,Evening,2
+87,,Female,Edge,17.4,12,311,,Desktop,India,Google,7,332.35,Yes,No,Platinum,Net Banking,No,Morning,3
+,,Male,Safari,12.6,6,351,43.83,Tablet,India,Google,5,156.67,No,No,Platinum,UPI,Yes,Morning,1
+89,44,Male,Firefox,10.93,7,335,63.24,Tablet,India,Facebook,1,102.85,No,Yes,Silver,UPI,Yes,Night,4
+90,23,Female,Edge,16.16,8,336,7.57,Mobile,India,Instagram,3,47.71,No,No,Platinum,Credit Card,No,Morning,2
+91,26,Male,Chrome,15.9,3,309,58.36,Mobile,UK,Direct,5,,No,Yes,Platinum,Net Banking,Yes,Morning,5
+92,43,Female,Firefox,19.56,17,364,29,Mobile,USA,Facebook,8,149.19,Yes,No,Gold,UPI,Yes,Morning,5
+93,48,Female,Edge,8.58,8,321,9.52,Mobile,India,Facebook,1,318.95,No,No,Platinum,UPI,Yes,Afternoon,4
+94,35,Female,Firefox,19.64,11,323,90.82,Desktop,Canada,Direct,5,38.74,No,Yes,Gold,Net Banking,No,Morning,3
+95,25,Female,Edge,15.65,18,437,60.36,Tablet,India,Instagram,9,194.07,Yes,No,Gold,Credit Card,Yes,Afternoon,2
+96,32,Female,Chrome,20.34,16,343,24.17,Desktop,USA,Facebook,9,137.67,No,Yes,Gold,PayPal,Yes,Evening,4
+97,55,Female,Edge,20.29,13,333,41.96,Tablet,USA,Direct,9,,Yes,Yes,Gold,Net Banking,Yes,Evening,4
+98,22,Female,Firefox,2.83,9,211,35.69,Desktop,Australia,Instagram,6,36.6,No,Yes,Silver,PayPal,No,Evening,5
+99,40,Male,Safari,20.24,19,216,70.06,Tablet,Australia,Instagram,7,364.85,Yes,No,Silver,Net Banking,No,Evening,4
+100,36,Female,Chrome,20.47,7,414,60.74,Mobile,India,Google,8,67.18,No,No,Gold,Net Banking,Yes,Afternoon,1
+101,23,Male,Chrome,8.71,17,357,,Tablet,India,Facebook,4,17.06,Yes,No,Silver,UPI,No,Afternoon,1
+102,,Female,Firefox,7.19,8,392,19.78,Mobile,Australia,Instagram,8,473.68,Yes,Yes,Silver,Net Banking,No,Evening,2
+103,17,Female,Edge,18.87,8,320,47.81,Tablet,India,Facebook,8,104.51,No,No,Platinum,Credit Card,Yes,Morning,4
+104,38,Male,Edge,15.57,3,340,,Desktop,Canada,Direct,6,415.75,No,No,Silver,Credit Card,Yes,Evening,5
+105,39,Male,Edge,11.79,16,285,51.67,Tablet,UK,Facebook,1,482.59,Yes,No,Gold,Net Banking,No,Evening,2
+106,,Male,Chrome,22.19,12,297,71.48,Desktop,Australia,Instagram,7,271.72,Yes,No,Gold,UPI,Yes,Afternoon,3
+107,41,Male,Chrome,16.51,15,258,68.2,Desktop,Australia,Direct,4,267.8,No,No,Gold,UPI,Yes,Evening,5
+108,28,Female,Firefox,4.57,4,433,37.28,Mobile,USA,Direct,7,190.03,Yes,Yes,Gold,PayPal,Yes,Afternoon,3
+109,27,Female,Edge,9.91,7,229,87.76,Tablet,India,Google,1,218.54,No,No,Platinum,Net Banking,Yes,Night,2
+110,25,Male,Edge,20.21,11,331,6.29,Desktop,Australia,Direct,6,246.22,No,No,Silver,PayPal,No,Afternoon,1
+111,42,Female,Firefox,15.18,5,284,58.45,Tablet,Australia,Instagram,4,,No,No,Gold,UPI,No,Evening,5
+112,18,Male,Chrome,11.4,13,395,94.97,Mobile,Canada,Google,3,,No,Yes,Platinum,Credit Card,Yes,Morning,5
+113,19,Male,Chrome,17.26,11,323,54.91,Mobile,India,Instagram,9,409.89,No,No,Gold,UPI,Yes,Afternoon,2
+114,29,Male,Safari,11.96,5,346,45.51,Tablet,UK,Instagram,5,99.38,No,Yes,Silver,Credit Card,No,Afternoon,5
+115,29,Male,Safari,8.76,8,321,13.39,Desktop,Canada,Google,4,367.63,Yes,Yes,Platinum,PayPal,Yes,Afternoon,5
+116,41,Male,Edge,20.08,17,201,81.02,Desktop,UK,Google,5,329.28,No,No,Silver,UPI,Yes,Evening,2
+117,34,Female,Chrome,20.84,11,355,37.38,Desktop,USA,Facebook,8,38.08,Yes,Yes,Platinum,Credit Card,Yes,Evening,4
+118,34,Male,Edge,17.41,19,290,70.12,Tablet,Australia,Instagram,0,20.99,No,Yes,Gold,PayPal,No,Afternoon,2
+119,19,Male,Chrome,7.33,18,224,19.75,Desktop,Canada,Facebook,0,182.74,No,Yes,Gold,UPI,Yes,Morning,5
+120,33,Female,Safari,24.25,10,159,4.19,Desktop,UK,Direct,5,349.16,No,No,Silver,Net Banking,Yes,Evening,2
+121,11,Male,Firefox,,5,218,30.55,Desktop,India,Direct,1,171.9,Yes,Yes,Silver,UPI,Yes,Morning,5
+122,37,Male,Chrome,21.37,1,376,28.14,Mobile,USA,Facebook,7,337.19,No,No,Platinum,PayPal,Yes,Night,3
+123,42,Female,Safari,16.52,17,476,87.35,Desktop,USA,Google,6,336.07,No,No,Silver,UPI,Yes,Morning,3
+124,27,Female,Safari,15.46,17,312,86.47,Tablet,Australia,Direct,5,405.21,No,Yes,Silver,PayPal,No,Evening,1
+125,39,Female,Chrome,17.19,1,200,53.39,Tablet,Australia,Google,3,,No,Yes,Gold,Credit Card,Yes,Afternoon,2
+126,31,Female,Edge,9.29,1,342,1.9,Desktop,UK,Facebook,8,,Yes,Yes,Gold,UPI,No,Night,2
+,47,Female,Chrome,12.28,9,408,,Tablet,UK,Google,6,40.62,Yes,No,Gold,PayPal,No,Morning,3
+128,37,Male,Safari,12.07,4,492,,Tablet,USA,Instagram,6,96.21,No,No,Gold,PayPal,Yes,Afternoon,3
+129,,Male,Chrome,18.04,9,426,10.14,Desktop,UK,Direct,4,169.5,No,Yes,Gold,Net Banking,Yes,Night,3
+130,47,Male,Firefox,16.24,14,322,70.06,Mobile,Australia,Google,0,356.62,Yes,Yes,Gold,Credit Card,Yes,Morning,1
+131,43,Female,Edge,,15,358,,Desktop,USA,Google,1,487.2,No,No,Gold,Net Banking,Yes,Afternoon,1
+132,31,Female,Chrome,7.04,16,228,68.25,Tablet,USA,Instagram,7,,Yes,No,Platinum,Net Banking,Yes,Night,4
+133,40,Female,Safari,16.78,16,380,,Tablet,India,Google,4,265.36,Yes,No,Gold,UPI,Yes,Evening,2
+,40,Female,Safari,9.68,13,393,46.92,Desktop,India,Facebook,1,136.94,Yes,Yes,Gold,PayPal,Yes,Morning,1
+135,31,Female,Edge,8.72,14,50,82.91,Tablet,UK,Facebook,4,340.99,Yes,Yes,Gold,PayPal,Yes,Morning,5
+136,36,Female,Chrome,25.48,9,314,78.15,Mobile,UK,Facebook,7,189.63,Yes,No,Gold,PayPal,Yes,Night,2
+137,37,Male,Safari,26.55,9,449,67.14,Desktop,Australia,Direct,3,245.98,Yes,No,Gold,UPI,Yes,Morning,4
+138,28,Female,Edge,12.75,4,233,44.51,Tablet,Australia,Google,2,288.23,Yes,Yes,Silver,UPI,No,Afternoon,3
+139,48,Male,Firefox,5.88,10,87,27.19,Mobile,India,Direct,4,346.26,No,No,Silver,Credit Card,Yes,Morning,4
+,15,Male,Edge,21.05,3,297,86.09,Tablet,USA,Direct,6,39.43,Yes,Yes,Gold,Net Banking,Yes,Morning,2
+141,42,Male,Chrome,,9,408,64.86,Mobile,Canada,Google,1,281.9,No,No,Gold,Credit Card,Yes,Afternoon,3
+,23,Female,Chrome,18.85,19,340,,Tablet,Canada,Google,0,221.27,No,No,Gold,Credit Card,No,Afternoon,4
+143,33,Female,Safari,11.83,16,303,55.2,Desktop,UK,Facebook,4,,No,No,Platinum,UPI,No,Evening,4
+144,19,Female,Firefox,9.81,16,207,,Tablet,Canada,Direct,6,111.94,Yes,No,Gold,PayPal,No,Afternoon,2
+145,22,Female,Chrome,13.8,17,190,97.94,Desktop,Canada,Direct,7,443.11,Yes,Yes,Platinum,UPI,Yes,Morning,1
+,34,Female,Safari,15.87,18,318,18.27,Mobile,India,Google,7,437.17,Yes,No,Platinum,UPI,No,Night,5
+147,36,Male,Edge,11.34,10,294,91.12,Mobile,USA,Direct,9,26.33,No,No,Gold,UPI,Yes,Morning,4
+148,46,Male,Edge,21.48,19,385,20.81,Tablet,Australia,Instagram,8,347.81,No,Yes,Silver,Credit Card,Yes,Evening,5
+149,31,Female,Chrome,6.31,15,344,37.37,Desktop,India,Google,0,281.55,No,Yes,Gold,PayPal,No,Night,2
+150,41,Male,Firefox,17.05,15,226,44.01,Desktop,Australia,Facebook,6,,No,Yes,Gold,UPI,Yes,Evening,2
+151,35,Male,Safari,15.63,11,326,92.14,Mobile,India,Instagram,9,454.92,Yes,No,Silver,Credit Card,No,Morning,1
+152,41,Female,Chrome,21.09,8,309,88.82,Mobile,India,Instagram,7,293.99,No,Yes,Silver,UPI,No,Afternoon,3
+,24,Male,Safari,10.2,16,134,82.32,Tablet,Canada,Facebook,5,,Yes,No,Gold,Net Banking,No,Night,5
+154,36,Male,Edge,18.53,10,258,37.67,Mobile,Australia,Instagram,9,235.31,No,Yes,Gold,PayPal,Yes,Morning,4
+155,,Female,Safari,17.39,9,306,0.45,Mobile,India,Instagram,3,365.33,Yes,No,Platinum,Credit Card,Yes,Night,3
+156,,Male,Edge,,15,289,68.16,Desktop,Canada,Instagram,6,,No,Yes,Silver,Net Banking,Yes,Evening,5
+,39,Female,Firefox,10.57,5,332,41.1,Desktop,UK,Direct,2,188.28,Yes,Yes,Platinum,UPI,Yes,Morning,5
+158,40,Female,Firefox,,2,308,75.71,Desktop,Australia,Instagram,1,394.49,No,Yes,Platinum,Net Banking,No,Night,3
+,30,Female,Edge,13.52,16,334,79.49,Mobile,India,Instagram,5,344.84,Yes,No,Platinum,Net Banking,Yes,Morning,3
+160,43,Male,Chrome,,18,317,43.97,Tablet,UK,Google,1,,Yes,No,Platinum,Credit Card,No,Morning,1
+161,12,Male,Edge,,16,298,74.81,Tablet,Canada,Facebook,5,283.41,Yes,Yes,Silver,PayPal,Yes,Evening,4
+162,16,Male,Safari,15.68,5,316,83.99,Mobile,India,Direct,9,99.92,No,No,Silver,PayPal,No,Evening,4
+163,25,Female,Safari,18.97,1,264,92.85,Tablet,Canada,Direct,2,,Yes,No,Silver,Credit Card,No,Evening,4
+,38,Male,Safari,7.74,19,258,58.25,Mobile,Canada,Facebook,1,308.94,Yes,No,Gold,UPI,Yes,Afternoon,3
+,27,Male,Chrome,5.79,10,310,77.85,Tablet,Canada,Direct,7,,Yes,No,Platinum,Net Banking,No,Night,1
+166,22,Female,Firefox,14.11,13,99,49.46,Mobile,Australia,Direct,3,468.34,Yes,No,Gold,PayPal,Yes,Evening,2
+167,34,Female,Firefox,,11,263,4.17,Desktop,UK,Direct,3,14.59,Yes,Yes,Silver,PayPal,Yes,Afternoon,1
+168,36,Female,Safari,15.2,15,229,15.52,Tablet,UK,Google,6,49.21,No,No,Silver,Net Banking,No,Afternoon,3
+169,29,Male,Chrome,10.78,2,217,12.82,Desktop,USA,Google,7,386.88,Yes,Yes,Gold,UPI,Yes,Night,1
+170,,Female,Safari,16.53,6,268,17.18,Desktop,India,Direct,8,345.97,No,Yes,Platinum,Net Banking,No,Night,3
+171,35,Male,Firefox,,11,166,1.02,Tablet,Canada,Facebook,9,402.46,Yes,Yes,Silver,Credit Card,Yes,Evening,5
+172,43,Female,Edge,17.81,15,269,85.87,Mobile,India,Facebook,7,140.74,No,No,Platinum,Credit Card,No,Afternoon,5
+173,,Female,Safari,10.6,9,323,56.01,Desktop,UK,Google,3,,No,No,Platinum,UPI,No,Night,2
+,,Female,Safari,5.68,12,405,38.32,Desktop,UK,Google,1,,No,Yes,Silver,PayPal,Yes,Night,5
+175,29,Female,Safari,19.26,4,520,40.98,Mobile,Canada,Instagram,9,138.34,No,Yes,Gold,PayPal,Yes,Night,2
+176,29,Male,Firefox,11.16,14,117,46.34,Mobile,Australia,Google,4,15.2,No,Yes,Platinum,UPI,No,Night,4
+177,36,Male,Chrome,21.86,3,207,7.39,Tablet,Canada,Direct,6,436.97,No,Yes,Gold,UPI,Yes,Afternoon,3
+,36,Male,Edge,11.79,17,269,,Tablet,Canada,Google,1,272.32,Yes,No,Platinum,Credit Card,No,Morning,4
+179,13,Female,Edge,10.89,13,314,85.16,Mobile,USA,Instagram,3,487.94,Yes,Yes,Platinum,Credit Card,Yes,Night,4
+180,34,Male,Edge,13.58,8,336,74.37,Desktop,Australia,Instagram,5,,Yes,Yes,Silver,UPI,No,Afternoon,2
+181,41,Female,Safari,12.2,12,239,56.34,Mobile,India,Facebook,7,49.4,Yes,No,Gold,PayPal,Yes,Night,3
+182,45,Female,Firefox,15.63,12,47,48.07,Tablet,Australia,Facebook,9,298.21,No,Yes,Platinum,Net Banking,No,Afternoon,2
+183,34,Male,Edge,17.01,12,403,25.9,Desktop,Canada,Direct,5,18.39,No,No,Gold,Net Banking,Yes,Evening,1
+184,,Female,Safari,17.77,2,350,47.13,Desktop,Canada,Google,5,283.31,No,Yes,Platinum,Net Banking,Yes,Morning,4
+185,42,Female,Chrome,14.57,10,371,59.79,Tablet,Canada,Instagram,5,181.6,Yes,No,Gold,Credit Card,No,Afternoon,3
+186,53,Male,Safari,7.5,9,279,71.26,Desktop,Canada,Instagram,3,325.21,Yes,No,Gold,UPI,No,Afternoon,4
+187,,Male,Edge,23.62,1,335,16.66,Mobile,Canada,Facebook,2,275.37,No,No,Silver,PayPal,No,Afternoon,1
+188,,Female,Edge,13.15,4,100,81.31,Tablet,Australia,Facebook,0,138.06,Yes,Yes,Platinum,Credit Card,No,Night,1
+189,48,Male,Chrome,12.89,14,193,34.58,Desktop,Canada,Google,1,89.55,No,No,Platinum,UPI,No,Evening,3
+190,24,Female,Firefox,14.56,16,419,,Tablet,UK,Instagram,1,208.31,No,Yes,Platinum,UPI,No,Night,3
+191,36,Male,Chrome,13.69,18,303,60.79,Desktop,UK,Facebook,9,,Yes,No,Platinum,Net Banking,Yes,Evening,1
+192,59,Female,Chrome,6.25,2,487,48.81,Mobile,USA,Google,6,223.49,No,No,Silver,Net Banking,Yes,Morning,4
+193,40,Female,Edge,17.87,6,203,57.2,Tablet,India,Google,5,376.91,Yes,No,Silver,PayPal,No,Night,5
+194,43,Female,Edge,,3,555,11.15,Desktop,UK,Google,7,37.92,Yes,Yes,Platinum,PayPal,Yes,Afternoon,4
+195,32,Male,Firefox,13.38,19,570,43.22,Mobile,USA,Facebook,8,195.64,Yes,No,Gold,Net Banking,No,Morning,5
+196,41,Male,Edge,23.8,13,236,28.05,Mobile,Australia,Facebook,4,,Yes,No,Silver,Net Banking,Yes,Night,2
+197,47,Female,Chrome,19.72,17,255,,Mobile,India,Facebook,2,378.09,No,No,Gold,UPI,No,Evening,3
+,20,Male,Chrome,23.06,14,425,19.16,Desktop,Canada,Direct,3,268.91,No,No,Gold,PayPal,No,Night,1
+199,34,Male,Firefox,11.61,11,244,60.24,Desktop,Canada,Direct,7,262.49,No,Yes,Gold,UPI,Yes,Night,2
+200,38,Male,Edge,18.65,16,273,19.67,Mobile,Australia,Direct,2,384.31,No,Yes,Platinum,PayPal,No,Afternoon,4
+,,Female,Edge,17.02,11,227,18.11,Mobile,India,Facebook,1,163.51,Yes,No,Silver,PayPal,Yes,Afternoon,5
+202,30,Male,Chrome,,18,229,55.28,Mobile,UK,Facebook,6,54.4,Yes,No,Platinum,Credit Card,Yes,Morning,3
+,49,Male,Chrome,11.25,2,312,90.47,Mobile,India,Direct,3,180.1,No,No,Gold,Net Banking,Yes,Afternoon,5
+204,37,Male,Edge,,8,273,78.87,Mobile,USA,Instagram,7,87.91,Yes,No,Platinum,Credit Card,Yes,Night,4
+205,28,Female,Safari,12.43,14,91,90.51,Desktop,Australia,Instagram,0,483.31,Yes,Yes,Gold,PayPal,Yes,Night,4
+206,45,Female,Chrome,15.68,2,444,58.3,Tablet,UK,Instagram,7,292.98,No,No,Platinum,UPI,Yes,Evening,1
+207,49,Female,Chrome,19.57,13,460,40.99,Tablet,India,Instagram,4,228.83,No,No,Platinum,PayPal,Yes,Night,2
+208,46,Male,Chrome,10.12,10,351,72.96,Tablet,India,Direct,1,456.91,Yes,Yes,Silver,Credit Card,Yes,Morning,3
+209,31,Female,Firefox,9.56,8,313,26.14,Desktop,UK,Google,0,451.18,No,No,Silver,Net Banking,Yes,Morning,1
+210,31,Male,Edge,27.58,7,206,,Tablet,USA,Google,5,213.69,Yes,No,Gold,UPI,Yes,Afternoon,5
+211,,Male,Edge,10.7,13,254,34.46,Tablet,USA,Instagram,8,438.62,Yes,Yes,Gold,PayPal,No,Evening,2
+212,38,Female,Edge,23.08,19,409,,Tablet,India,Facebook,8,41.37,No,No,Gold,PayPal,Yes,Night,3
+213,,Male,Chrome,,15,360,67.55,Tablet,Canada,Instagram,8,444,No,Yes,Platinum,Net Banking,Yes,Afternoon,5
+214,41,Female,Edge,12.87,2,346,55.14,Mobile,UK,Instagram,3,162.19,No,No,Gold,PayPal,No,Night,3
+215,53,Male,Edge,66.85,5,350,13.83,Desktop,USA,Google,5,286.91,Yes,Yes,Silver,PayPal,No,Morning,3
+216,16,Male,Edge,14.69,19,406,90.85,Tablet,USA,Facebook,9,142.15,No,Yes,Gold,Net Banking,No,Morning,2
+217,36,Male,Firefox,21.69,1,391,59.33,Mobile,USA,Google,5,492.55,No,No,Gold,Credit Card,No,Evening,5
+218,43,Male,Firefox,18.78,7,369,45.77,Tablet,Australia,Facebook,4,45.17,No,No,Platinum,Credit Card,Yes,Night,1
+219,29,Male,Chrome,13.94,18,265,93.72,Tablet,Canada,Direct,1,229.01,No,No,Silver,Credit Card,Yes,Night,1
+220,24,Female,Edge,5.67,1,468,9.73,Tablet,USA,Google,6,314.28,Yes,No,Gold,Credit Card,Yes,Morning,1
+,23,Female,Chrome,15.1,1,252,78.96,Tablet,Canada,Direct,0,311.65,No,Yes,Silver,UPI,No,Evening,3
+,36,Female,Chrome,,7,213,36.47,Tablet,India,Direct,5,371.99,Yes,No,Gold,UPI,No,Afternoon,4
+223,,Female,Chrome,21.29,17,244,69.54,Mobile,India,Instagram,4,3649.6,No,No,Silver,Net Banking,Yes,Evening,2
+224,50,Male,Chrome,7.65,6,181,93.07,Tablet,Australia,Facebook,4,398.64,No,No,Gold,Net Banking,No,Afternoon,1
+225,40,Male,Chrome,12.53,12,358,51.77,Mobile,Canada,Google,7,124.8,No,Yes,Gold,Net Banking,Yes,Afternoon,2
+226,33,Female,Chrome,12.37,15,299,2.26,Tablet,UK,Instagram,8,191.55,Yes,Yes,Platinum,UPI,No,Morning,3
+227,34,Female,Firefox,14.72,13,413,,Desktop,Australia,Google,6,197.2,No,Yes,Platinum,PayPal,No,Afternoon,2
+,46,Male,Safari,15.46,12,55,33.06,Mobile,USA,Direct,9,478.36,No,Yes,Silver,UPI,Yes,Night,1
+229,,Female,Firefox,17.19,2,321,78.17,Tablet,India,Google,7,210.56,No,Yes,Silver,Credit Card,Yes,Morning,1
+230,26,Male,Chrome,5.53,18,274,28.83,Mobile,India,Google,1,,Yes,No,Silver,Credit Card,Yes,Evening,3
+231,28,Male,Safari,15.86,4,265,33.45,Tablet,UK,Instagram,1,319.85,No,No,Silver,PayPal,No,Evening,3
+232,31,Female,Safari,16.23,10,196,78.45,Tablet,Australia,Facebook,7,219.36,No,No,Platinum,Net Banking,No,Afternoon,5
+233,29,Male,Edge,15.38,11,304,11.62,Mobile,Canada,Google,5,,Yes,Yes,Silver,UPI,Yes,Night,3
+234,17,Male,Chrome,14.11,6,224,84.68,Tablet,India,Direct,7,360.42,Yes,No,Gold,PayPal,Yes,Evening,4
+235,27,Female,Chrome,,6,452,26.58,Tablet,USA,Direct,8,,Yes,Yes,Gold,PayPal,Yes,Afternoon,4
+236,28,Female,Firefox,17.84,9,363,5.12,Tablet,UK,Instagram,8,320.34,Yes,Yes,Gold,UPI,No,Evening,1
+237,23,Male,Safari,10.13,13,398,11.73,Tablet,UK,Direct,5,220.96,No,Yes,Platinum,PayPal,No,Night,3
+238,39,Female,Safari,18.07,5,126,,Tablet,UK,Google,7,166.39,No,Yes,Silver,Net Banking,Yes,Afternoon,4
+239,34,Male,Chrome,21.25,6,389,45.13,Tablet,USA,Facebook,1,473.53,Yes,Yes,Gold,UPI,Yes,Night,4
+240,41,Female,Edge,6.62,4,379,25.64,Mobile,UK,Google,7,168.96,Yes,No,Gold,UPI,Yes,Afternoon,5
+241,,Male,Chrome,17.92,6,259,,Desktop,Canada,Instagram,2,180.28,Yes,No,Platinum,PayPal,No,Night,3
+242,41,Male,Safari,,18,281,68.23,Tablet,Canada,Direct,0,436.61,Yes,No,Platinum,Net Banking,No,Evening,5
+243,36,Male,Edge,,13,202,31.88,Mobile,Australia,Google,6,73.23,No,No,Platinum,Net Banking,Yes,Evening,2
+244,30,Male,Edge,14.37,3,269,72.53,Desktop,Australia,Google,0,62.95,Yes,Yes,Gold,Credit Card,No,Night,5
+245,51,Male,Safari,18.78,10,356,25.23,Mobile,Canada,Direct,0,148.53,Yes,No,Platinum,UPI,Yes,Evening,2
+246,36,Male,Chrome,18.04,4,233,11.23,Desktop,USA,Facebook,0,299.9,No,No,Gold,Credit Card,Yes,Evening,2
+247,30,Male,Chrome,16.31,15,304,54.97,Desktop,Australia,Facebook,3,198.31,No,Yes,Silver,Net Banking,Yes,Afternoon,3
+248,,Male,Chrome,6.78,12,555,15.11,Desktop,UK,Facebook,3,308.19,Yes,Yes,Gold,Net Banking,No,Night,2
+249,26,Male,Firefox,2.43,15,202,94.05,Mobile,Canada,Direct,9,,Yes,Yes,Silver,Credit Card,Yes,Afternoon,2
+250,33,Female,Firefox,19.56,10,333,0.04,Desktop,India,Google,5,138.11,Yes,No,Gold,UPI,Yes,Evening,5
+251,55,Male,Edge,18.73,12,197,75.57,Tablet,USA,Instagram,9,286.93,No,No,Silver,Credit Card,No,Evening,3
+252,17,Female,Chrome,10.01,8,151,27.95,Tablet,USA,Google,2,116.4,No,No,Gold,Net Banking,Yes,Morning,3
+253,,Female,Firefox,16.74,3,380,84.61,Desktop,Canada,Direct,9,217.17,No,Yes,Gold,Net Banking,Yes,Night,2
+254,,Female,Edge,13.95,7,259,6.02,Desktop,India,Direct,5,290.6,Yes,Yes,Gold,PayPal,Yes,Night,5
+255,31,Male,Safari,20.43,18,460,95.3,Tablet,USA,Google,6,487.09,Yes,Yes,Gold,PayPal,Yes,Afternoon,5
+256,30,Male,Safari,15.42,3,357,10.14,Mobile,Australia,Direct,0,49.14,No,Yes,Platinum,Credit Card,No,Night,5
+257,52,Female,Chrome,19.5,15,221,78.79,Mobile,India,Google,5,235.6,No,Yes,Gold,PayPal,No,Afternoon,5
+258,29,Male,Safari,11.93,2,212,51.73,Tablet,UK,Google,9,204.17,No,Yes,Gold,Net Banking,Yes,Evening,1
+,39,Male,Safari,16.43,15,372,43.04,Mobile,Australia,Facebook,0,413.88,Yes,No,Platinum,UPI,No,Morning,2
+260,29,Male,Safari,12.94,13,195,28.02,Mobile,India,Direct,6,451.15,No,Yes,Platinum,UPI,No,Evening,2
+,39,Male,Edge,11.91,10,192,84.14,Desktop,Canada,Direct,9,454.44,No,Yes,Platinum,Credit Card,No,Afternoon,2
+262,44,Male,Safari,3.35,8,128,19.98,Mobile,USA,Facebook,4,193.82,No,Yes,Platinum,PayPal,No,Afternoon,3
+263,34,Male,Safari,19.62,16,362,72.12,Tablet,Australia,Facebook,9,159.28,Yes,Yes,Platinum,Credit Card,No,Morning,3
+264,29,Female,Edge,23.75,16,219,44.58,Mobile,Canada,Facebook,3,230.08,No,Yes,Platinum,PayPal,No,Evening,5
+265,34,Female,Firefox,8.06,2,336,99.85,Desktop,India,Instagram,0,178.55,Yes,Yes,Platinum,UPI,No,Night,3
+266,,Female,Edge,18.47,9,170,61.14,Tablet,UK,Direct,8,362.24,Yes,Yes,Platinum,PayPal,No,Morning,4
+267,44,Female,Firefox,18.26,8,136,10.42,Tablet,USA,Google,6,114.65,Yes,Yes,Platinum,PayPal,Yes,Night,2
+268,38,Female,Edge,,11,372,41.95,Tablet,USA,Google,1,332.76,No,Yes,Platinum,Credit Card,Yes,Evening,2
+269,34,Male,Chrome,11.31,1,284,,Desktop,Australia,Google,3,,Yes,No,Platinum,UPI,Yes,Morning,1
+270,,Male,Safari,20.9,11,232,28.57,Tablet,Canada,Direct,3,147.16,No,No,Silver,PayPal,Yes,Evening,1
+271,29,Male,Firefox,20.38,18,251,34.33,Desktop,India,Instagram,7,341.68,Yes,No,Gold,UPI,Yes,Evening,4
+272,31,Female,Edge,17.26,15,252,85.32,Desktop,India,Direct,1,803.4,Yes,No,Gold,PayPal,Yes,Night,1
+273,53,Female,Firefox,12.4,9,503,83.8,Mobile,Canada,Direct,4,69.48,Yes,Yes,Platinum,UPI,Yes,Night,5
+274,34,Male,Firefox,20.45,9,327,1.16,Tablet,USA,Direct,9,66.67,No,No,Platinum,PayPal,Yes,Night,5
+275,42,Female,Safari,10.82,1,314,53.23,Mobile,Canada,Direct,7,77.88,No,No,Silver,Net Banking,No,Evening,2
+276,26,Male,Firefox,22.1,7,225,22.35,Mobile,India,Direct,5,115.92,No,Yes,Platinum,UPI,Yes,Afternoon,5
+277,45,Male,Edge,23.16,12,379,32.01,Desktop,Canada,Instagram,3,285.79,No,Yes,Silver,Net Banking,Yes,Evening,1
+278,23,Male,Chrome,20.91,10,185,2.17,Mobile,USA,Facebook,4,385.82,Yes,Yes,Gold,Net Banking,No,Afternoon,4
+279,23,Female,Chrome,16.71,19,352,74.97,Mobile,Australia,Google,1,72.16,Yes,Yes,Gold,Net Banking,No,Morning,5
+280,44,Female,Safari,2.26,16,352,95.06,Mobile,USA,Direct,4,436.31,Yes,No,Platinum,PayPal,Yes,Night,2
+281,31,Male,Edge,14.08,6,402,21.93,Tablet,UK,Direct,2,422.93,Yes,Yes,Silver,UPI,Yes,Night,2
+282,33,Male,Edge,23.82,11,103,34.18,Mobile,UK,Direct,2,366.42,Yes,Yes,Silver,PayPal,Yes,Evening,1
+283,39,Female,Chrome,19.69,19,413,20.64,Desktop,Canada,Google,6,218.72,No,Yes,Gold,PayPal,No,Afternoon,5
+284,32,Female,Edge,17.18,19,335,,Tablet,USA,Instagram,2,10.76,Yes,No,Gold,UPI,Yes,Morning,1
+,25,Female,Firefox,11.6,18,225,0.94,Desktop,USA,Google,3,370.03,No,No,Silver,Credit Card,No,Evening,2
+286,29,Female,Safari,20.12,15,84,58.39,Tablet,India,Instagram,6,,No,Yes,Silver,PayPal,Yes,Morning,4
+287,,Male,Chrome,7.14,16,259,87.08,Tablet,Australia,Facebook,2,174.29,No,No,Gold,Net Banking,No,Afternoon,5
+288,47,Male,Safari,14.15,14,319,,Tablet,USA,Direct,9,361.81,Yes,Yes,Silver,PayPal,No,Night,4
+289,47,Female,Firefox,23.7,8,148,,Desktop,Canada,Instagram,9,40.4,No,No,Gold,Credit Card,No,Night,5
+290,27,Female,Chrome,10.98,8,215,5.06,Mobile,India,Google,1,357.65,No,Yes,Silver,Net Banking,Yes,Afternoon,2
+291,39,Female,Edge,18.05,2,174,81.46,Tablet,India,Instagram,9,43.47,No,No,Platinum,PayPal,Yes,Night,5
+292,32,Female,Edge,6.21,6,257,27.44,Desktop,Canada,Instagram,6,297.72,No,No,Gold,UPI,No,Evening,2
+293,50,Male,Firefox,11.74,13,191,98.88,Tablet,Canada,Facebook,4,302.8,Yes,No,Silver,Net Banking,No,Afternoon,3
+294,59,Female,Chrome,15.9,13,517,92.2,Mobile,USA,Direct,0,,Yes,Yes,Gold,Credit Card,No,Night,2
+,42,Female,Safari,16.77,12,386,73.25,Tablet,USA,Direct,9,48.77,Yes,No,Silver,PayPal,Yes,Afternoon,2
+296,30,Male,Chrome,25.34,2,189,,Desktop,India,Google,7,475.17,No,No,Platinum,UPI,No,Morning,5
+,23,Female,Edge,12.48,12,204,76.66,Tablet,India,Google,2,272.43,No,No,Platinum,Net Banking,Yes,Evening,4
+,37,Male,Chrome,17.97,17,152,13.06,Desktop,Australia,Facebook,6,294.08,Yes,Yes,Platinum,Net Banking,Yes,Evening,2
+299,33,Male,Chrome,17.83,6,285,31.02,Mobile,India,Instagram,5,311.36,Yes,No,Gold,UPI,No,Evening,5
+300,21,Male,Edge,12.06,7,478,2.69,Mobile,Canada,Instagram,9,,No,Yes,Platinum,Credit Card,No,Night,2
+301,,Female,Edge,19.78,6,420,64.5,Tablet,Canada,Google,5,39.53,No,Yes,Gold,Net Banking,Yes,Morning,1
+,,Male,Safari,,4,320,80.55,Mobile,Australia,Direct,7,447.71,Yes,Yes,Platinum,Credit Card,Yes,Night,1
+303,43,Female,Chrome,13.63,9,271,94.63,Desktop,UK,Instagram,3,127.44,Yes,Yes,Gold,Credit Card,Yes,Night,1
+304,23,Female,Edge,15.97,5,355,68.65,Tablet,UK,Facebook,3,48.2,No,Yes,Platinum,UPI,No,Afternoon,1
+305,35,Male,Firefox,10.2,10,328,73.21,Desktop,Canada,Google,2,332.06,Yes,No,Silver,Net Banking,Yes,Evening,4
+,39,Male,Edge,,15,343,89.55,Tablet,UK,Instagram,0,,Yes,Yes,Silver,PayPal,Yes,Night,2
+307,40,Male,Safari,14.89,8,320,93.64,Desktop,UK,Direct,9,38.05,No,No,Gold,UPI,No,Evening,1
+308,19,Female,Safari,18.74,4,344,49.13,Tablet,Australia,Direct,2,218.8,Yes,No,Platinum,UPI,Yes,Morning,5
+309,34,Female,Firefox,13.33,5,158,10.98,Desktop,India,Facebook,0,,Yes,Yes,Platinum,Credit Card,No,Morning,1
+310,,Male,Safari,11.92,7,288,46.64,Desktop,India,Facebook,5,133.54,No,Yes,Silver,PayPal,No,Evening,3
+311,33,Female,Chrome,13.85,6,323,55.61,Tablet,UK,Google,7,491.61,Yes,Yes,Platinum,UPI,No,Evening,3
+312,16,Male,Safari,19.14,13,256,,Desktop,USA,Google,2,324.07,No,No,Platinum,Credit Card,No,Morning,4
+,33,Female,Firefox,8.24,19,175,98.93,Mobile,Australia,Direct,3,423.73,Yes,No,Gold,Net Banking,No,Morning,3
+314,43,Female,Safari,19.31,10,301,91.76,Desktop,UK,Direct,4,213.73,Yes,No,Silver,Credit Card,No,Night,5
+315,,Female,Firefox,17.56,15,715,39.64,Tablet,USA,Instagram,6,183.44,No,No,Platinum,PayPal,No,Morning,1
+316,30,Female,Safari,8.22,3,218,11.35,Mobile,USA,Instagram,5,281.05,Yes,No,Platinum,PayPal,No,Night,3
+,49,Male,Edge,13.82,18,286,21.48,Mobile,Australia,Instagram,1,223.29,Yes,No,Gold,Credit Card,No,Morning,3
+318,33,Male,Firefox,18.18,14,426,17.38,Desktop,India,Facebook,6,360.32,No,No,Gold,Net Banking,Yes,Night,4
+319,36,Male,Safari,5.45,3,477,,Desktop,Canada,Facebook,7,140.25,No,No,Gold,PayPal,No,Afternoon,3
+320,16,Female,Chrome,,11,242,87.65,Desktop,USA,Instagram,0,230.3,Yes,No,Gold,PayPal,Yes,Afternoon,1
+321,24,Female,Firefox,7.39,10,396,43.8,Mobile,Canada,Direct,5,448.62,Yes,Yes,Platinum,Net Banking,Yes,Night,2
+322,57,Male,Firefox,12.11,17,379,56.73,Mobile,Canada,Google,8,380.49,Yes,No,Platinum,UPI,No,Evening,1
+323,52,Male,Safari,20.19,13,249,17.92,Mobile,Australia,Facebook,6,92.35,No,Yes,Platinum,PayPal,No,Afternoon,3
+324,40,Male,Edge,18.99,2,362,49.28,Tablet,India,Facebook,4,444.56,Yes,Yes,Gold,Credit Card,No,Morning,3
+325,12,Female,Edge,12.47,13,283,87.36,Tablet,Australia,Instagram,9,298.62,Yes,No,Platinum,Net Banking,Yes,Evening,3
+326,22,Male,Safari,20.14,19,237,77.35,Desktop,USA,Google,9,342.85,No,No,Silver,PayPal,No,Morning,4
+327,21,Male,Safari,18.32,5,472,8.12,Tablet,India,Facebook,8,154.19,No,No,Silver,UPI,Yes,Afternoon,5
+328,21,Male,Chrome,21.38,16,365,86.21,Tablet,UK,Google,1,226.36,No,No,Platinum,PayPal,Yes,Morning,1
+329,31,Male,Safari,14.56,10,132,27.38,Desktop,India,Facebook,6,405.34,No,No,Gold,UPI,Yes,Night,3
+,43,Male,Firefox,17.7,12,287,66.57,Desktop,Australia,Google,8,172.03,Yes,No,Silver,PayPal,No,Evening,2
+331,29,Male,Safari,31.86,13,248,14.64,Mobile,Australia,Google,1,,Yes,Yes,Platinum,PayPal,No,Afternoon,4
+,32,Male,Chrome,,16,279,67.46,Mobile,Canada,Facebook,9,195.37,Yes,Yes,Silver,Credit Card,Yes,Evening,5
+333,32,Male,Safari,14.68,1,352,3.57,Desktop,UK,Google,5,43.92,No,No,Silver,Net Banking,Yes,Night,3
+334,44,Male,Safari,14.21,9,329,60.06,Desktop,India,Direct,8,361.75,Yes,Yes,Silver,Net Banking,Yes,Afternoon,1
+335,44,Female,Firefox,14.55,16,443,64.59,Tablet,UK,Facebook,2,82.4,Yes,Yes,Silver,Credit Card,Yes,Morning,2
+336,37,Male,Edge,17.79,19,422,24.45,Tablet,Canada,Facebook,7,149.71,Yes,Yes,Platinum,Net Banking,No,Evening,4
+337,,Male,Safari,15.29,15,179,93.7,Tablet,UK,Direct,4,,No,Yes,Silver,Net Banking,No,Afternoon,1
+338,,Male,Chrome,8.18,18,290,4.6,Desktop,UK,Google,6,,Yes,Yes,Platinum,Net Banking,Yes,Afternoon,1
+339,,Female,Safari,15.09,12,105,89.17,Desktop,India,Direct,2,167.46,Yes,Yes,Silver,PayPal,Yes,Night,4
+340,29,Female,Safari,12.37,14,200,38.19,Mobile,UK,Facebook,7,278.36,No,No,Silver,PayPal,Yes,Afternoon,1
+341,15,Male,Firefox,6.36,3,90,71.39,Tablet,Canada,Direct,1,116.96,Yes,Yes,Silver,UPI,No,Afternoon,2
+342,22,Female,Edge,,4,143,65.15,Mobile,USA,Google,7,22.33,No,Yes,Platinum,UPI,No,Night,2
+343,21,Female,Edge,12.34,6,440,16.82,Desktop,USA,Direct,1,305.83,No,Yes,Silver,Net Banking,Yes,Morning,1
+344,28,Male,Edge,16.92,16,375,31.9,Tablet,Australia,Facebook,6,359.92,Yes,Yes,Silver,Net Banking,No,Morning,3
+345,46,Female,Safari,-0.77,13,362,52.97,Mobile,USA,Google,1,441.09,No,No,Gold,Net Banking,No,Afternoon,1
+346,31,Female,Firefox,17.49,12,418,84.65,Desktop,India,Facebook,6,388.22,No,Yes,Silver,Credit Card,Yes,Morning,3
+347,21,Male,Firefox,13.43,12,361,95.49,Mobile,Australia,Facebook,0,464.07,No,No,Gold,PayPal,No,Night,1
+348,20,Male,Safari,7.23,2,292,2.06,Tablet,USA,Instagram,5,493.12,Yes,Yes,Platinum,Net Banking,No,Morning,5
+349,34,Female,Firefox,12.24,13,241,35.26,Mobile,USA,Facebook,9,375.02,No,No,Silver,Net Banking,No,Afternoon,2
+350,50,Male,Edge,11.57,3,470,,Mobile,Australia,Facebook,6,435.28,Yes,Yes,Silver,PayPal,No,Night,1
+351,37,Male,Firefox,,13,431,,Desktop,India,Google,3,340.13,Yes,Yes,Gold,UPI,No,Morning,2
+352,44,Male,Safari,15.45,2,278,94.3,Tablet,Australia,Google,0,93.76,No,Yes,Gold,Net Banking,No,Evening,4
+353,39,Female,Safari,7.39,19,376,1.7,Mobile,India,Google,5,99.03,No,No,Silver,Net Banking,Yes,Evening,5
+354,20,Male,Chrome,17.19,9,21,43.77,Desktop,India,Direct,3,64.03,Yes,No,Platinum,Net Banking,Yes,Night,3
+355,41,Female,Chrome,4.65,1,381,66.88,Tablet,Canada,Direct,2,472.06,No,No,Gold,Net Banking,Yes,Morning,4
+356,24,Female,Firefox,9.37,13,250,21.76,Desktop,USA,Google,3,339.65,Yes,No,Silver,PayPal,No,Afternoon,5
+357,31,Male,Firefox,15.07,2,571,72.59,Tablet,USA,Direct,5,397.06,Yes,Yes,Gold,PayPal,No,Evening,4
+358,28,Female,Safari,,15,415,8.12,Desktop,UK,Instagram,4,172.27,No,Yes,Platinum,PayPal,No,Morning,2
+359,34,Male,Chrome,20.96,19,103,45.1,Desktop,Australia,Direct,1,235.61,No,No,Gold,UPI,Yes,Morning,5
+,33,Male,Chrome,15.85,16,229,67.62,Desktop,Canada,Instagram,1,29.49,No,Yes,Silver,Net Banking,Yes,Afternoon,4
+361,31,Male,Edge,18.13,11,306,26.68,Mobile,USA,Google,2,,No,Yes,Gold,UPI,No,Afternoon,3
+362,32,Male,Edge,18.33,15,296,7.38,Mobile,UK,Google,5,427.97,No,Yes,Platinum,UPI,No,Morning,5
+363,38,Male,Safari,12.78,6,291,95.7,Desktop,Canada,Direct,0,394.56,No,No,Silver,PayPal,No,Afternoon,5
+364,32,Female,Safari,9.67,14,398,91.38,Tablet,India,Google,6,38.57,No,No,Silver,Net Banking,No,Night,4
+365,33,Female,Safari,14.75,6,246,92.64,Desktop,USA,Google,7,95.38,No,Yes,Silver,Net Banking,No,Evening,1
+366,55,Male,Safari,19.34,19,293,97.85,Mobile,Australia,Facebook,6,173.74,No,No,Silver,UPI,Yes,Evening,3
+367,45,Female,Chrome,13.84,5,453,18.47,Tablet,Canada,Google,2,138.9,No,No,Platinum,Credit Card,Yes,Morning,3
+368,30,Female,Safari,17.95,11,454,15.78,Mobile,UK,Facebook,5,420.85,Yes,No,Silver,Credit Card,No,Morning,4
+369,36,Female,Safari,14.86,4,398,3.42,Desktop,Australia,Google,3,105.47,No,No,Platinum,Net Banking,Yes,Afternoon,2
+370,35,Female,Chrome,7.23,9,265,89.18,Mobile,India,Instagram,4,270.74,No,Yes,Platinum,Net Banking,No,Evening,2
+371,,Male,Edge,7.66,9,229,75.28,Mobile,Australia,Instagram,2,289.98,No,No,Gold,UPI,Yes,Afternoon,1
+372,35,Male,Safari,22.81,17,296,,Mobile,UK,Google,4,218.26,Yes,No,Gold,UPI,No,Morning,1
+373,,Male,Edge,9.16,8,303,92.77,Desktop,India,Instagram,5,127.94,No,Yes,Silver,PayPal,No,Morning,4
+374,32,Female,Chrome,11.81,15,296,57.51,Mobile,UK,Instagram,7,480.54,No,No,Silver,UPI,No,Morning,2
+375,29,Female,Edge,19.59,9,356,12.97,Desktop,USA,Instagram,5,212.57,No,Yes,Platinum,UPI,No,Morning,3
+376,31,Male,Chrome,9.04,5,336,,Desktop,UK,Direct,8,,No,Yes,Gold,Credit Card,Yes,Morning,2
+377,18,Male,Safari,11.58,4,332,13.22,Mobile,Australia,Instagram,9,100.18,No,No,Silver,Credit Card,No,Morning,4
+,42,Female,Edge,,18,253,30.77,Tablet,USA,Facebook,9,413.18,Yes,Yes,Silver,Credit Card,No,Night,2
+379,40,Male,Safari,66.45,9,180,37.95,Mobile,USA,Direct,9,115.79,No,Yes,Platinum,Credit Card,No,Night,5
+380,55,Female,Firefox,10.15,3,369,79.68,Mobile,Canada,Facebook,9,340.9,No,No,Gold,UPI,No,Afternoon,4
+381,23,Male,Firefox,14.03,9,306,19.13,Mobile,Australia,Facebook,3,258.18,Yes,No,Silver,Net Banking,Yes,Night,5
+382,31,Male,Edge,18.4,9,341,72.54,Tablet,Australia,Facebook,1,81.81,Yes,No,Silver,Credit Card,Yes,Afternoon,4
+383,,Female,Chrome,14.39,4,344,49.12,Tablet,India,Direct,8,22.23,Yes,Yes,Silver,PayPal,Yes,Afternoon,3
+384,39,Male,Edge,,7,97,99.97,Desktop,UK,Google,2,466.07,No,Yes,Silver,PayPal,No,Night,4
+385,51,Male,Chrome,19.73,7,472,77.66,Tablet,UK,Instagram,6,71.59,No,Yes,Silver,UPI,Yes,Evening,4
+386,50,Male,Firefox,23.53,8,243,,Tablet,Australia,Instagram,3,,Yes,Yes,Silver,PayPal,No,Afternoon,4
+387,11,Male,Chrome,19.78,1,437,34.24,Mobile,UK,Google,0,329.82,No,Yes,Gold,Credit Card,Yes,Morning,4
+388,38,Male,Firefox,9.38,9,342,12.31,Desktop,Australia,Google,7,177.44,No,Yes,Platinum,Net Banking,Yes,Afternoon,1
+389,38,Male,Edge,9.52,12,192,50.59,Desktop,USA,Facebook,3,100.84,No,No,Platinum,Net Banking,No,Afternoon,5
+390,35,Female,Safari,17.18,6,229,12.42,Tablet,UK,Direct,5,97.38,No,Yes,Platinum,Credit Card,Yes,Evening,4
+391,31,Female,Safari,15.86,13,231,49.25,Tablet,UK,Facebook,6,296.81,No,Yes,Silver,PayPal,No,Morning,4
+392,51,Female,Safari,8.88,5,237,26.99,Mobile,Australia,Instagram,7,277.99,Yes,No,Platinum,UPI,Yes,Evening,1
+393,35,Female,Chrome,16.43,19,123,49.1,Tablet,Australia,Google,9,439.21,Yes,Yes,Gold,Net Banking,No,Evening,2
+394,4,Female,Safari,15.49,1,220,94.96,Tablet,India,Instagram,1,,Yes,Yes,Silver,Credit Card,No,Evening,1
+395,31,Male,Chrome,22.39,18,397,28.9,Desktop,UK,Google,8,411.44,No,Yes,Gold,Credit Card,No,Afternoon,1
+396,56,Male,Safari,12.82,8,407,,Tablet,Canada,Direct,9,25.88,Yes,No,Silver,PayPal,No,Morning,1
+397,24,Female,Chrome,21.93,8,232,22.93,Mobile,Australia,Facebook,2,338.79,No,No,Silver,UPI,Yes,Morning,4
+,47,Male,Chrome,22.15,15,113,20.81,Desktop,Canada,Instagram,0,124.52,Yes,No,Platinum,UPI,No,Evening,1
+,45,Male,Firefox,,19,363,54.48,Desktop,USA,Direct,1,133.89,Yes,No,Gold,PayPal,Yes,Night,1
+400,32,Male,Firefox,16.77,10,192,84.2,Tablet,USA,Instagram,7,363.08,Yes,Yes,Platinum,Credit Card,No,Morning,1
+401,37,Male,Edge,13.94,16,200,74.95,Mobile,Canada,Google,9,398.78,Yes,Yes,Silver,PayPal,No,Morning,4
+402,34,Male,Firefox,13.74,11,272,72.35,Desktop,USA,Instagram,5,192.15,No,No,Gold,PayPal,No,Evening,3
+403,30,Female,Chrome,16.23,12,262,28.26,Mobile,Canada,Direct,0,,Yes,Yes,Gold,PayPal,No,Afternoon,3
+404,28,Female,Firefox,11.05,16,221,2.25,Mobile,India,Direct,8,227.43,Yes,Yes,Silver,Credit Card,Yes,Evening,2
+405,49,Male,Firefox,7.02,16,230,16.17,Tablet,India,Facebook,6,430.25,Yes,Yes,Platinum,Net Banking,Yes,Night,4
+406,33,Female,Firefox,12.34,3,250,34.95,Mobile,USA,Instagram,9,22.2,No,No,Silver,Credit Card,No,Night,1
+,27,Female,Chrome,20.9,9,229,97.17,Desktop,Canada,Google,2,50.91,Yes,Yes,Gold,Net Banking,Yes,Evening,1
+408,40,Female,Chrome,13.98,8,235,91.98,Tablet,Canada,Instagram,6,,Yes,No,Gold,Net Banking,Yes,Night,1
+409,39,Female,Edge,14.88,10,269,20.06,Desktop,Canada,Facebook,5,315.8,Yes,Yes,Gold,PayPal,No,Afternoon,3
+410,20,Male,Firefox,18.96,13,335,72.56,Mobile,USA,Google,2,283.92,Yes,Yes,Silver,UPI,Yes,Afternoon,1
+411,29,Female,Firefox,7.01,18,325,57.9,Mobile,Canada,Google,7,310.85,Yes,No,Gold,PayPal,No,Afternoon,1
+412,18,Male,Chrome,17.2,13,246,4.98,Tablet,Australia,Facebook,0,465.79,No,No,Gold,Credit Card,No,Night,3
+413,61,Female,Edge,23.35,13,268,37.17,Tablet,Canada,Google,4,331.21,Yes,Yes,Platinum,UPI,Yes,Afternoon,1
+414,31,Female,Edge,15.46,15,434,48.61,Desktop,Australia,Direct,7,327.26,No,No,Platinum,UPI,Yes,Evening,2
+415,28,Male,Chrome,5.39,13,399,66.76,Desktop,India,Direct,2,382.14,No,No,Gold,Credit Card,No,Afternoon,5
+416,30,Male,Firefox,14.62,16,355,29.49,Mobile,Australia,Google,9,434.64,Yes,Yes,Platinum,Credit Card,No,Night,2
+417,27,Female,Edge,18.05,8,123,93.38,Tablet,India,Instagram,5,138.34,Yes,No,Silver,PayPal,No,Morning,4
+418,33,Female,Edge,15.56,19,311,45.19,Mobile,USA,Google,9,312.21,No,No,Platinum,Credit Card,Yes,Night,2
+419,47,Male,Firefox,16.36,10,232,,Mobile,India,Instagram,1,296.15,Yes,No,Platinum,Net Banking,No,Evening,2
+420,36,Female,Edge,16.96,12,204,31.64,Desktop,India,Facebook,8,76.08,Yes,No,Platinum,Net Banking,No,Evening,3
+421,21,Male,Firefox,10.34,14,264,75.19,Desktop,Canada,Direct,1,264.96,No,No,Platinum,UPI,No,Night,4
+422,24,Male,Edge,10.96,6,405,64.03,Desktop,UK,Direct,4,,Yes,No,Silver,PayPal,No,Afternoon,2
+423,,Male,Edge,,9,389,74.22,Tablet,India,Facebook,2,100.63,No,Yes,Platinum,PayPal,No,Afternoon,5
+424,27,Female,Chrome,16.96,7,238,29.23,Desktop,Australia,Facebook,9,457.35,No,No,Gold,UPI,Yes,Morning,2
+425,33,Male,Edge,9.05,6,308,32.68,Tablet,USA,Direct,8,68.43,Yes,No,Platinum,Credit Card,Yes,Afternoon,1
+426,61,Male,Firefox,25.28,1,258,39.67,Mobile,Australia,Facebook,8,293.67,Yes,Yes,Platinum,PayPal,Yes,Evening,3
+427,25,Female,Edge,2.88,14,276,,Tablet,USA,Google,6,168.51,No,No,Gold,UPI,Yes,Afternoon,1
+428,21,Male,Chrome,6.47,6,400,69.1,Desktop,Australia,Google,9,282.1,No,No,Silver,UPI,Yes,Night,4
+429,28,Female,Edge,17.77,12,294,32.93,Tablet,India,Instagram,4,125.14,Yes,Yes,Gold,Net Banking,No,Night,4
+430,17,Female,Safari,17.34,17,124,,Tablet,UK,Instagram,8,227.75,No,Yes,Gold,UPI,Yes,Morning,3
+431,48,Male,Firefox,14.64,5,314,26.94,Desktop,India,Instagram,6,434.99,No,No,Gold,Credit Card,No,Evening,2
+432,23,Female,Safari,18.38,11,482,45.28,Desktop,Canada,Google,1,194.35,Yes,No,Gold,Credit Card,Yes,Night,4
+433,25,Female,Chrome,17.84,5,230,77.2,Mobile,Australia,Direct,9,182.99,Yes,Yes,Platinum,Credit Card,Yes,Evening,5
+434,22,Female,Safari,15,12,455,83.56,Tablet,UK,Instagram,0,228.6,No,No,Platinum,Credit Card,No,Afternoon,3
+435,18,Male,Edge,,3,362,80.45,Mobile,Australia,Google,9,59.24,Yes,No,Platinum,UPI,Yes,Morning,1
+436,,Male,Firefox,-0.7,9,418,62.12,Mobile,Canada,Direct,9,199.8,No,Yes,Platinum,PayPal,Yes,Morning,5
+437,27,Male,Safari,14.33,6,388,28.04,Tablet,Canada,Facebook,3,13.38,No,Yes,Silver,UPI,No,Afternoon,3
+438,17,Female,Edge,14.76,2,318,73.49,Mobile,Canada,Google,9,256.66,Yes,Yes,Platinum,PayPal,Yes,Night,5
+439,,Male,Safari,,2,239,,Tablet,India,Facebook,7,425.49,No,No,Platinum,PayPal,Yes,Evening,3
+440,,Male,Edge,10.87,12,318,79.82,Mobile,India,Instagram,5,280.52,No,Yes,Silver,PayPal,Yes,Evening,1
+441,31,Female,Edge,14.82,8,323,78.02,Mobile,UK,Direct,1,307.79,No,No,Gold,Net Banking,No,Evening,2
+442,41,Male,Safari,22.12,2,397,67,Tablet,Canada,Google,4,24.98,Yes,Yes,Platinum,Credit Card,Yes,Night,3
+443,52,Female,Chrome,17.8,9,75,9.79,Desktop,India,Instagram,8,431.16,Yes,Yes,Platinum,Net Banking,Yes,Afternoon,4
+444,43,Male,Firefox,15.13,16,157,99.73,Tablet,USA,Instagram,5,198.65,No,No,Gold,UPI,No,Evening,1
+445,37,Female,Chrome,19.81,15,324,75.64,Desktop,USA,Direct,5,487.68,No,Yes,Platinum,Net Banking,Yes,Night,1
+446,43,Female,Safari,11.04,14,333,73.48,Tablet,India,Facebook,6,69.03,No,No,Gold,PayPal,No,Evening,5
+447,57,Female,Edge,23.63,4,213,6.4,Tablet,UK,Instagram,4,472.89,Yes,No,Gold,UPI,No,Night,4
+448,,Female,Safari,18.21,4,336,39.87,Desktop,Australia,Direct,2,320.8,No,No,Gold,Credit Card,No,Afternoon,5
+449,41,Male,Edge,6.87,11,368,8.62,Desktop,Canada,Direct,2,35.65,Yes,No,Platinum,PayPal,No,Evening,1
+450,25,Female,Edge,11.97,18,281,36.1,Tablet,India,Google,4,486.13,No,No,Gold,Credit Card,Yes,Afternoon,3
+451,37,Female,Chrome,4.21,5,443,57.05,Tablet,UK,Instagram,3,16.8,No,Yes,Platinum,Net Banking,Yes,Morning,4
+452,22,Female,Chrome,,2,462,,Tablet,Australia,Facebook,4,368.04,Yes,Yes,Silver,Credit Card,No,Night,1
+453,43,Female,Safari,17.82,15,312,28.29,Desktop,UK,Facebook,8,445.87,Yes,No,Gold,UPI,Yes,Morning,4
+454,38,Female,Firefox,12.7,11,384,62.34,Tablet,Australia,Instagram,4,96.15,Yes,No,Platinum,PayPal,Yes,Afternoon,3
+455,50,Female,Chrome,,17,130,16.47,Desktop,USA,Facebook,3,178.25,No,No,Gold,Credit Card,Yes,Afternoon,2
+456,32,Male,Edge,14.58,16,407,35.4,Mobile,Australia,Direct,3,285,No,No,Platinum,Net Banking,No,Afternoon,5
+457,32,Female,Safari,28.12,15,447,,Desktop,USA,Direct,0,343.11,Yes,Yes,Platinum,UPI,Yes,Evening,5
+458,32,Male,Safari,9,3,198,74.76,Mobile,Canada,Instagram,9,437.22,Yes,Yes,Silver,PayPal,No,Evening,1
+,,Female,Firefox,18.21,15,362,54.58,Tablet,India,Facebook,3,,No,Yes,Gold,Net Banking,No,Afternoon,1
+460,41,Female,Safari,13.01,19,113,,Tablet,USA,Direct,3,188.03,No,Yes,Platinum,PayPal,Yes,Afternoon,3
+461,48,Male,Chrome,11.61,13,221,37.97,Desktop,UK,Instagram,8,412.64,Yes,Yes,Silver,Credit Card,Yes,Evening,1
+462,42,Female,Edge,14.13,16,248,15.67,Mobile,Australia,Direct,3,483.38,No,Yes,Platinum,Net Banking,No,Evening,1
+,44,Female,Safari,16.84,12,153,35.35,Tablet,UK,Instagram,6,121.22,Yes,No,Platinum,Net Banking,No,Night,1
+464,20,Male,Safari,15.29,17,276,15.06,Tablet,USA,Google,0,46.31,No,Yes,Silver,Credit Card,No,Afternoon,4
+465,29,Male,Edge,18.39,16,270,79.53,Mobile,UK,Google,6,219.04,Yes,Yes,Gold,Net Banking,Yes,Evening,4
+466,29,Male,Safari,18.03,9,362,8.08,Tablet,Australia,Instagram,1,441.88,No,No,Silver,Net Banking,No,Evening,2
+467,36,Male,Safari,22.26,6,149,,Tablet,India,Google,7,83.64,No,No,Gold,Net Banking,Yes,Morning,4
+468,34,Female,Firefox,8.99,19,362,69.12,Desktop,UK,Google,0,444.04,No,No,Platinum,Credit Card,Yes,Afternoon,5
+469,19,Male,Chrome,7.21,13,221,90.25,Tablet,Canada,Facebook,9,496.18,Yes,No,Platinum,Credit Card,Yes,Afternoon,2
+470,35,Male,Safari,14.66,8,172,96.46,Mobile,Australia,Google,2,,Yes,No,Silver,PayPal,Yes,Evening,1
+471,15,Male,Chrome,11.03,12,280,83.6,Tablet,Australia,Facebook,7,252.68,Yes,Yes,Silver,Credit Card,No,Morning,5
+,43,Female,Firefox,19.37,9,375,21.15,Desktop,Canada,Google,9,171.15,No,No,Silver,Net Banking,No,Night,2
+,,Male,Chrome,9.66,4,252,28.57,Tablet,USA,Google,7,202.9,No,No,Platinum,Credit Card,No,Afternoon,2
+474,47,Female,Firefox,12.25,13,351,87.08,Mobile,Canada,Direct,4,231.3,Yes,No,Gold,Net Banking,No,Night,5
+475,37,Female,Chrome,13.34,2,328,88.93,Tablet,USA,Instagram,4,372.45,No,Yes,Silver,Net Banking,No,Afternoon,2
+,30,Female,Chrome,23.83,3,613,,Mobile,India,Google,7,299.74,Yes,No,Gold,Net Banking,No,Evening,5
+477,19,Female,Safari,25.54,5,269,31.36,Desktop,USA,Instagram,9,480.99,No,No,Silver,Credit Card,No,Night,2
+478,31,Male,Chrome,9.29,18,283,22.41,Tablet,India,Instagram,4,173.05,No,Yes,Silver,Net Banking,Yes,Afternoon,2
+479,27,Male,Safari,4.02,14,411,,Tablet,India,Direct,8,275.34,No,No,Silver,PayPal,No,Night,2
+480,39,Female,Safari,12.13,2,295,20.53,Desktop,Canada,Instagram,0,408.53,Yes,Yes,Silver,UPI,Yes,Evening,5
+481,31,Male,Chrome,14.82,15,325,66.18,Mobile,India,Instagram,4,192.78,Yes,Yes,Platinum,UPI,Yes,Morning,2
+482,41,Male,Safari,,8,124,96.8,Mobile,USA,Google,2,238,Yes,No,Platinum,PayPal,No,Morning,4
+483,49,Male,Chrome,,16,288,70.53,Tablet,UK,Direct,2,345.64,No,Yes,Silver,UPI,No,Night,4
+484,21,Male,Edge,,3,229,25.77,Mobile,Australia,Instagram,1,431.76,No,No,Platinum,PayPal,No,Night,4
+485,35,Female,Safari,12.99,5,252,28.25,Mobile,Australia,Google,2,213.68,No,No,Platinum,Credit Card,No,Night,4
+486,35,Male,Edge,16.07,4,326,9.29,Tablet,USA,Direct,6,270.66,No,No,Platinum,UPI,Yes,Afternoon,4
+487,38,Male,Edge,18.22,12,295,68.62,Mobile,UK,Google,7,487.81,Yes,Yes,Platinum,PayPal,Yes,Evening,1
+488,42,Female,Safari,16.1,19,377,51.84,Mobile,India,Direct,7,30.81,Yes,Yes,Gold,PayPal,Yes,Night,2
+489,,Male,Firefox,18.38,15,395,20.65,Tablet,USA,Direct,7,229.63,No,Yes,Gold,Net Banking,Yes,Morning,3
+490,24,Male,Firefox,6.46,13,282,22.77,Tablet,India,Facebook,0,321.63,Yes,Yes,Platinum,Credit Card,No,Afternoon,1
+491,19,Male,Edge,15.57,5,330,0.9,Mobile,Canada,Facebook,6,14.13,No,Yes,Gold,PayPal,Yes,Night,5
+492,37,Female,Edge,16.15,12,97,97.84,Tablet,UK,Facebook,1,302.43,No,No,Silver,UPI,Yes,Afternoon,1
+493,39,Male,Chrome,,19,331,82.8,Mobile,Australia,Instagram,9,37.54,Yes,No,Gold,Net Banking,No,Night,3
+494,42,Male,Edge,,2,405,39.42,Mobile,USA,Google,3,430.2,Yes,No,Silver,Net Banking,No,Night,1
+495,27,Female,Safari,17.31,7,209,94.61,Mobile,Australia,Direct,4,405.47,Yes,Yes,Gold,Net Banking,No,Afternoon,2
+496,19,Male,Firefox,15.61,5,376,,Mobile,India,Google,0,25.81,No,Yes,Gold,Credit Card,Yes,Evening,4
+497,47,Female,Firefox,14.74,11,255,75.15,Tablet,India,Instagram,3,33.91,No,Yes,Silver,PayPal,No,Evening,2
+498,40,Female,Firefox,,18,242,68,Tablet,Canada,Facebook,3,379.27,No,No,Silver,Credit Card,No,Morning,1
+,31,Female,Safari,13.55,18,442,75.68,Desktop,India,Facebook,8,191.08,Yes,No,Platinum,PayPal,Yes,Evening,3
+500,14,Male,Chrome,11.17,7,297,,Tablet,India,Google,8,,Yes,Yes,Gold,Net Banking,No,Evening,5
+501,28,Male,Safari,12.62,10,387,56.24,Desktop,Australia,Google,9,142.46,Yes,No,Silver,UPI,Yes,Afternoon,2
+502,42,Male,Safari,10.3,14,105,84.94,Mobile,Australia,Direct,0,,Yes,Yes,Platinum,UPI,No,Afternoon,3
+503,39,Male,Firefox,13.06,11,239,1.95,Tablet,USA,Google,7,,Yes,No,Silver,Credit Card,No,Morning,5
+504,21,Male,Safari,16.82,2,371,12.34,Mobile,USA,Direct,3,130.89,Yes,Yes,Platinum,Net Banking,No,Night,4
+505,41,Female,Edge,19.1,13,312,24.56,Desktop,India,Direct,3,229.67,Yes,Yes,Platinum,PayPal,No,Afternoon,2
+506,34,Female,Safari,14.74,13,282,29.47,Tablet,UK,Facebook,4,,No,No,Silver,Credit Card,Yes,Afternoon,2
+507,48,Female,Firefox,14.61,9,360,18.27,Tablet,USA,Google,1,281.52,Yes,No,Silver,Net Banking,Yes,Afternoon,4
+508,,Female,Firefox,15.72,17,217,62.43,Tablet,India,Facebook,0,308.5,Yes,Yes,Gold,Credit Card,Yes,Evening,4
+509,29,Male,Safari,19.92,15,422,29.4,Tablet,Australia,Direct,4,240.34,No,No,Gold,UPI,No,Afternoon,1
+510,36,Female,Edge,13.88,16,279,15.81,Mobile,Canada,Facebook,6,169.12,No,No,Platinum,Net Banking,Yes,Morning,5
+511,31,Female,Edge,17.31,10,218,90.58,Tablet,Australia,Facebook,9,80.32,Yes,No,Silver,Credit Card,Yes,Morning,3
+512,26,Male,Firefox,,12,225,69.5,Desktop,Australia,Direct,8,183.74,No,Yes,Gold,PayPal,No,Afternoon,4
+513,53,Female,Edge,11.88,5,292,24.61,Tablet,Canada,Instagram,1,335.95,Yes,No,Platinum,UPI,Yes,Night,1
+514,49,Male,Edge,18.53,17,257,36.1,Desktop,Australia,Instagram,7,,Yes,No,Gold,PayPal,Yes,Afternoon,5
+,25,Male,Chrome,,10,353,74.08,Desktop,USA,Google,6,239.9,Yes,No,Platinum,Credit Card,Yes,Morning,5
+516,37,Male,Chrome,20.31,6,295,79.09,Mobile,Australia,Facebook,1,326.05,No,No,Gold,Net Banking,No,Night,2
+,20,Female,Edge,9.03,6,264,17.64,Tablet,Canada,Google,4,113.17,No,Yes,Silver,UPI,Yes,Evening,1
+,52,Female,Edge,14.3,12,335,,Desktop,India,Facebook,6,431.43,Yes,Yes,Platinum,PayPal,No,Afternoon,1
+519,43,Female,Chrome,19.14,19,247,78.53,Tablet,India,Google,2,434.31,No,Yes,Platinum,PayPal,No,Morning,2
+,45,Female,Chrome,12.86,2,349,85.68,Mobile,India,Google,1,166.96,Yes,No,Gold,Net Banking,Yes,Evening,3
+521,32,Female,Chrome,16.17,13,333,,Mobile,Canada,Direct,5,278.38,Yes,Yes,Gold,Credit Card,Yes,Morning,4
+,47,Female,Firefox,,11,329,14.34,Tablet,Canada,Instagram,9,307.26,No,No,Gold,PayPal,Yes,Evening,2
+,47,Male,Firefox,24.24,15,264,30.54,Desktop,USA,Instagram,5,241.49,No,Yes,Silver,Credit Card,No,Morning,4
+,33,Male,Chrome,14.92,13,237,6.46,Mobile,Canada,Instagram,3,456.46,No,Yes,Gold,Credit Card,Yes,Morning,1
+525,24,Female,Chrome,15.9,3,381,9.11,Desktop,India,Direct,0,372.46,Yes,No,Gold,Credit Card,No,Evening,2
+526,39,Female,Chrome,15.2,14,361,14.32,Desktop,Canada,Instagram,4,339.53,No,No,Silver,Net Banking,Yes,Afternoon,3
+527,,Male,Firefox,13.89,8,199,71.24,Tablet,UK,Direct,0,264.85,No,No,Gold,Credit Card,No,Morning,4
+528,54,Male,Firefox,8.27,9,257,3.02,Mobile,Australia,Facebook,7,51.58,No,Yes,Silver,UPI,Yes,Night,4
+529,36,Male,Edge,9.4,15,434,8.32,Tablet,USA,Direct,1,62.83,Yes,No,Silver,Net Banking,No,Afternoon,4
+530,36,Female,Safari,14.93,18,398,94.42,Tablet,India,Google,8,156.51,Yes,No,Gold,PayPal,No,Night,1
+531,43,Female,Edge,16.71,8,183,8.37,Tablet,India,Google,8,113.65,Yes,No,Silver,Net Banking,No,Morning,4
+532,35,Female,Safari,21.31,11,301,53.75,Desktop,UK,Facebook,2,476.74,Yes,Yes,Gold,PayPal,Yes,Evening,5
+533,42,Male,Safari,13.95,5,342,64.26,Tablet,USA,Facebook,5,210.81,Yes,No,Silver,UPI,No,Afternoon,4
+534,30,Female,Safari,22.64,15,399,95.86,Mobile,Australia,Google,8,439.54,No,Yes,Platinum,Credit Card,No,Evening,1
+535,24,Female,Edge,8.98,15,313,89.98,Desktop,USA,Instagram,6,410.86,No,Yes,Gold,Credit Card,No,Evening,2
+536,26,Female,Firefox,16.05,7,348,44.07,Tablet,USA,Instagram,3,408.16,Yes,No,Platinum,Credit Card,Yes,Night,4
+537,32,Female,Firefox,13.66,18,393,94.22,Mobile,India,Instagram,2,1157,No,No,Platinum,Credit Card,No,Night,4
+538,36,Female,Firefox,8.44,12,407,43.23,Tablet,Canada,Facebook,1,229.19,Yes,No,Platinum,Net Banking,No,Afternoon,2
+539,40,Female,Firefox,6.53,12,282,,Tablet,Australia,Google,9,,Yes,No,Platinum,UPI,Yes,Afternoon,5
+540,40,Male,Edge,12.83,4,305,25.96,Tablet,USA,Direct,9,485.5,Yes,Yes,Gold,PayPal,No,Afternoon,1
+541,35,Female,Chrome,13.2,11,224,63.66,Desktop,UK,Facebook,0,439.6,Yes,No,Silver,Net Banking,Yes,Night,2
+,24,Male,Safari,10.56,6,273,53.82,Tablet,India,Google,9,132.46,Yes,No,Gold,Credit Card,Yes,Night,1
+543,42,Male,Firefox,18.81,10,259,60.68,Mobile,Canada,Instagram,0,163.62,Yes,Yes,Gold,Credit Card,Yes,Evening,2
+544,,Male,Firefox,12.97,15,281,68.27,Tablet,Canada,Instagram,3,269.17,No,Yes,Silver,Credit Card,Yes,Evening,3
+545,23,Female,Edge,10.07,1,291,17.35,Tablet,India,Instagram,3,146.52,No,No,Platinum,PayPal,No,Evening,5
+546,35,Female,Safari,13.82,17,381,30.13,Desktop,USA,Google,8,414.02,No,No,Silver,PayPal,Yes,Afternoon,3
+547,43,Female,Firefox,11.84,3,335,73.62,Tablet,India,Instagram,9,411.42,No,No,Platinum,Net Banking,No,Morning,2
+548,41,Female,Chrome,23.23,11,172,16.38,Mobile,Canada,Google,0,364.93,No,No,Gold,UPI,Yes,Night,2
+549,34,Male,Firefox,,18,355,34.42,Mobile,Canada,Facebook,3,347.76,No,No,Silver,PayPal,No,Afternoon,1
+550,,Female,Safari,10.41,10,245,66.65,Tablet,UK,Direct,2,278.18,Yes,Yes,Silver,Net Banking,No,Night,2
+551,24,Male,Chrome,23.23,9,191,93.77,Mobile,UK,Instagram,8,180.09,Yes,Yes,Platinum,PayPal,No,Morning,1
+,29,Female,Edge,18.63,7,186,7.53,Mobile,Canada,Facebook,4,420.1,Yes,Yes,Silver,Net Banking,No,Night,1
+553,30,Female,Chrome,15.53,11,317,51.66,Tablet,UK,Facebook,8,430.83,Yes,No,Gold,Credit Card,No,Night,2
+554,25,Male,Safari,11.02,8,406,8.19,Mobile,UK,Google,9,34.26,No,No,Silver,PayPal,Yes,Night,1
+555,31,Male,Safari,18.83,2,279,37.91,Mobile,UK,Facebook,5,205.32,Yes,No,Silver,Credit Card,No,Evening,5
+556,33,Male,Chrome,7.68,5,394,17.54,Tablet,Canada,Google,8,,No,No,Gold,UPI,No,Morning,3
+,30,Female,Firefox,18.47,9,309,64.94,Desktop,USA,Google,0,421.34,No,Yes,Platinum,Credit Card,No,Afternoon,2
+558,32,Male,Safari,16.25,1,84,75.78,Desktop,USA,Facebook,3,,No,Yes,Silver,UPI,Yes,Afternoon,1
+559,6,Male,Chrome,19.95,17,361,24.73,Tablet,Australia,Google,3,340.19,No,No,Platinum,PayPal,Yes,Afternoon,1
+560,39,Male,Safari,3.2,10,246,71.29,Desktop,UK,Google,9,185.11,No,No,Silver,UPI,Yes,Morning,1
+561,,Female,Firefox,,8,219,44.68,Desktop,USA,Google,9,409.87,No,No,Gold,Credit Card,Yes,Night,1
+562,31,Male,Firefox,10,18,362,28.36,Desktop,Australia,Facebook,5,259.75,Yes,Yes,Platinum,PayPal,Yes,Afternoon,5
+563,21,Male,Chrome,9.41,10,313,52.34,Desktop,India,Direct,9,168.96,Yes,Yes,Silver,Net Banking,Yes,Morning,2
+564,51,Female,Edge,17.13,9,293,37.97,Tablet,UK,Google,0,168.7,Yes,No,Platinum,PayPal,No,Evening,2
+565,,Male,Edge,13.52,4,310,23,Desktop,USA,Instagram,9,170.19,Yes,No,Silver,Net Banking,Yes,Morning,5
+566,,Male,Firefox,10.64,2,215,,Desktop,USA,Facebook,4,396.4,Yes,Yes,Gold,Credit Card,No,Evening,5
+567,33,Male,Edge,,19,477,79.75,Tablet,USA,Facebook,2,358.45,Yes,No,Gold,PayPal,No,Morning,5
+568,44,Female,Firefox,10.19,10,317,80.03,Tablet,Australia,Google,0,166.41,Yes,Yes,Silver,Net Banking,No,Evening,2
+569,31,Male,Edge,,17,316,38.21,Desktop,India,Facebook,5,250.2,No,No,Silver,Credit Card,No,Afternoon,4
+570,29,Male,Firefox,,3,291,16.95,Mobile,UK,Instagram,2,47.32,No,Yes,Platinum,UPI,No,Morning,3
+571,28,Male,Safari,19.16,19,138,,Tablet,USA,Direct,3,,Yes,No,Silver,Net Banking,No,Evening,5
+572,,Male,Chrome,28.32,19,233,,Tablet,Canada,Facebook,8,140.32,Yes,Yes,Platinum,UPI,Yes,Night,5
+573,61,Male,Chrome,14.91,19,178,74.81,Desktop,UK,Facebook,1,445.72,No,Yes,Silver,PayPal,No,Afternoon,2
+574,43,Male,Edge,,19,168,81.75,Mobile,Canada,Facebook,0,302.43,Yes,No,Gold,Net Banking,Yes,Afternoon,2
+575,,Male,Chrome,14.31,15,146,76.82,Tablet,Australia,Google,9,,No,Yes,Platinum,Credit Card,No,Evening,3
+576,29,Female,Edge,24.4,18,236,38.98,Tablet,USA,Instagram,5,89.73,Yes,No,Platinum,Credit Card,No,Evening,1
+577,32,Female,Firefox,20.43,17,302,93.8,Tablet,UK,Direct,0,44.07,No,Yes,Gold,UPI,No,Morning,2
+578,26,Female,Safari,11.77,10,158,66.02,Mobile,UK,Instagram,0,280.78,No,No,Platinum,Credit Card,No,Evening,3
+,25,Male,Chrome,13.48,14,370,57.57,Tablet,USA,Instagram,6,239.31,Yes,No,Gold,PayPal,Yes,Evening,2
+580,42,Female,Safari,18.88,19,330,69.79,Tablet,India,Facebook,1,68.64,Yes,Yes,Gold,PayPal,Yes,Night,2
+581,30,Male,Chrome,17.4,18,277,,Mobile,Australia,Direct,3,419.44,No,No,Gold,UPI,Yes,Afternoon,2
+582,39,Male,Firefox,18.93,11,516,39.05,Tablet,USA,Instagram,3,214.45,Yes,No,Silver,Net Banking,Yes,Evening,4
+583,53,Male,Chrome,13.8,11,276,88.12,Mobile,UK,Direct,1,137.62,Yes,No,Gold,Credit Card,No,Evening,4
+,30,Female,Chrome,16.94,12,380,16.11,Mobile,India,Google,5,396.25,No,No,Platinum,PayPal,No,Night,5
+585,38,Female,Firefox,13.47,8,321,41.44,Mobile,UK,Facebook,9,457.4,No,Yes,Silver,Net Banking,Yes,Evening,4
+586,25,Male,Edge,21.97,16,444,40.52,Desktop,Canada,Google,1,159.92,Yes,Yes,Gold,PayPal,No,Night,3
+587,,Male,Edge,7.37,8,408,35.6,Tablet,UK,Direct,7,390.22,Yes,No,Gold,PayPal,No,Afternoon,2
+588,48,Female,Firefox,7.38,14,270,56.24,Tablet,Australia,Facebook,3,329.73,No,Yes,Gold,Net Banking,Yes,Afternoon,4
+589,47,Female,Edge,11.43,18,274,99.62,Tablet,USA,Google,0,494.97,No,No,Platinum,Net Banking,Yes,Night,2
+590,35,Female,Chrome,11.61,4,166,25.58,Mobile,UK,Facebook,6,109.96,No,No,Silver,Credit Card,No,Night,1
+591,30,Female,Safari,7.37,17,312,70.5,Desktop,Canada,Google,5,480.73,Yes,No,Silver,UPI,Yes,Afternoon,5
+592,37,Female,Firefox,6.47,13,365,75.8,Mobile,Canada,Instagram,5,,No,Yes,Silver,UPI,No,Afternoon,4
+593,36,Female,Chrome,20.34,5,294,58.45,Tablet,USA,Facebook,2,211.86,Yes,No,Platinum,PayPal,No,Night,2
+594,40,Female,Firefox,14.16,3,440,9.75,Mobile,Canada,Direct,9,185.82,No,No,Gold,UPI,No,Morning,1
+595,29,Male,Safari,13.79,9,315,57.24,Desktop,USA,Facebook,6,141.54,Yes,Yes,Silver,PayPal,No,Afternoon,5
+596,31,Male,Chrome,15.28,18,425,95.35,Tablet,Australia,Direct,5,349.68,Yes,No,Gold,Net Banking,No,Afternoon,5
+597,33,Female,Chrome,22.99,19,284,34.21,Mobile,USA,Google,9,298.68,No,Yes,Platinum,PayPal,No,Night,1
+598,42,Female,Safari,15.58,19,184,63.97,Desktop,India,Google,9,159.79,Yes,Yes,Silver,Credit Card,No,Night,4
+599,43,Male,Safari,14.44,16,238,,Mobile,Canada,Direct,8,74.78,No,Yes,Platinum,PayPal,Yes,Night,4
+600,31,Female,Edge,11.81,1,297,79.8,Mobile,Canada,Google,2,165.51,Yes,No,Silver,PayPal,Yes,Morning,2
+601,,Male,Chrome,17.99,5,225,68.83,Tablet,UK,Facebook,2,196.8,Yes,No,Silver,Credit Card,Yes,Night,3
+602,39,Male,Safari,14.68,15,134,97.11,Desktop,India,Google,3,196.52,Yes,No,Gold,Credit Card,Yes,Morning,2
+603,42,Female,Safari,23.26,12,100,17.06,Mobile,UK,Direct,2,185.06,No,No,Platinum,UPI,Yes,Night,2
+604,34,Male,Chrome,14.2,1,401,77.27,Desktop,USA,Direct,3,33.87,No,No,Silver,Net Banking,No,Night,2
+605,28,Female,Edge,20.04,14,339,40.68,Tablet,Australia,Instagram,5,237.38,Yes,No,Silver,Net Banking,No,Morning,1
+606,30,Female,Firefox,11.44,18,328,36.04,Tablet,Canada,Direct,0,419.74,No,No,Platinum,Credit Card,Yes,Evening,5
+607,51,Male,Edge,11.4,18,317,52.07,Tablet,Australia,Google,1,98.38,Yes,No,Gold,Net Banking,No,Afternoon,5
+608,37,Male,Safari,5.87,6,245,3.38,Desktop,USA,Direct,9,81.37,No,No,Platinum,PayPal,Yes,Night,3
+609,45,Male,Firefox,18.97,1,379,31.25,Desktop,USA,Google,5,241.21,No,No,Silver,Net Banking,No,Evening,4
+610,27,Female,Firefox,,17,126,16.62,Mobile,India,Google,5,191.6,Yes,No,Platinum,Credit Card,No,Morning,2
+,47,Female,Edge,18.2,18,92,,Desktop,UK,Instagram,0,285.03,Yes,No,Gold,Net Banking,No,Night,1
+612,44,Female,Firefox,23.48,15,280,,Tablet,Canada,Google,5,474.07,Yes,Yes,Gold,Credit Card,Yes,Morning,1
+613,34,Female,Safari,,12,313,80.23,Mobile,Canada,Direct,8,382.83,No,Yes,Gold,UPI,No,Morning,2
+614,41,Female,Chrome,10.01,13,212,20.11,Desktop,Australia,Direct,7,346.66,Yes,No,Gold,Credit Card,Yes,Morning,1
+615,48,Female,Chrome,11.06,2,141,53.14,Tablet,India,Direct,9,213.81,Yes,No,Gold,PayPal,No,Evening,1
+616,24,Female,Chrome,,4,359,74.87,Tablet,USA,Google,4,150.81,No,Yes,Gold,PayPal,Yes,Morning,2
+617,30,Male,Edge,14.03,3,259,24.1,Mobile,India,Direct,3,274.73,No,Yes,Gold,PayPal,Yes,Afternoon,3
+618,40,Female,Chrome,19.42,19,369,92.42,Tablet,Canada,Facebook,5,443.87,Yes,No,Silver,Credit Card,Yes,Night,1
+,,Male,Chrome,15.25,8,431,86.65,Desktop,UK,Facebook,4,439.6,Yes,No,Platinum,Credit Card,No,Night,5
+620,39,Male,Chrome,7.15,12,140,25.12,Tablet,Australia,Direct,5,228.3,No,No,Gold,PayPal,No,Afternoon,5
+621,42,Female,Firefox,13.22,12,321,,Mobile,USA,Google,9,130.65,No,No,Platinum,Net Banking,No,Night,5
+622,40,Male,Firefox,15.63,10,325,66.92,Tablet,USA,Direct,2,120.42,No,No,Platinum,Credit Card,No,Afternoon,2
+623,32,Male,Firefox,19.81,1,374,28.61,Tablet,USA,Facebook,6,,No,Yes,Silver,Net Banking,Yes,Evening,5
+624,33,Male,Safari,18.98,5,247,68.1,Desktop,UK,Google,7,,Yes,No,Platinum,UPI,No,Morning,4
+625,51,Female,Safari,13.27,11,306,66.62,Desktop,Canada,Direct,4,139.77,Yes,Yes,Platinum,UPI,Yes,Evening,1
+,36,Male,Safari,13.26,9,373,,Desktop,Canada,Google,4,185.91,No,Yes,Gold,UPI,Yes,Afternoon,3
+627,49,Female,Chrome,17.97,14,344,71.17,Desktop,India,Direct,3,406.52,Yes,No,Gold,UPI,No,Morning,5
+,49,Female,Firefox,12.03,3,456,,Tablet,India,Instagram,9,68.81,Yes,No,Platinum,PayPal,Yes,Evening,2
+629,27,Female,Safari,19.28,5,213,97.9,Desktop,Canada,Google,4,236,Yes,Yes,Gold,Credit Card,No,Morning,3
+630,42,Male,Edge,11.71,9,321,85.79,Tablet,USA,Facebook,9,69.95,No,No,Silver,UPI,No,Morning,2
+631,24,Male,Firefox,22.76,18,291,74.57,Desktop,UK,Facebook,7,226.51,Yes,Yes,Platinum,PayPal,No,Evening,3
+632,51,Female,Chrome,,6,279,2.63,Desktop,Canada,Facebook,4,33.1,No,Yes,Platinum,UPI,Yes,Night,3
+633,37,Female,Firefox,5.2,7,359,59.04,Desktop,UK,Facebook,8,263.64,Yes,No,Silver,Credit Card,No,Afternoon,1
+634,36,Female,Chrome,18.2,16,312,,Tablet,Australia,Direct,0,399.9,No,No,Silver,UPI,Yes,Evening,3
+635,26,Male,Safari,16.27,8,193,85.41,Desktop,USA,Direct,6,341.39,No,No,Silver,UPI,No,Evening,4
+636,29,Male,Chrome,17.43,10,395,,Tablet,Australia,Google,4,259.49,No,Yes,Silver,Net Banking,No,Night,4
+637,37,Male,Chrome,26.26,5,359,91.59,Desktop,Canada,Instagram,3,416.09,Yes,Yes,Platinum,Net Banking,No,Afternoon,4
+638,36,Male,Edge,68.45,11,447,40.6,Desktop,India,Instagram,2,121.62,Yes,Yes,Gold,Net Banking,Yes,Evening,2
+639,31,Male,Firefox,7.24,13,373,89.65,Mobile,Canada,Google,9,417.09,Yes,No,Gold,Net Banking,Yes,Morning,1
+640,,Male,Chrome,21.34,2,279,0.07,Desktop,Australia,Facebook,6,145.42,Yes,Yes,Gold,UPI,Yes,Afternoon,2
+641,35,Male,Edge,6.1,14,279,35.15,Tablet,UK,Instagram,1,187.62,Yes,No,Gold,UPI,No,Night,5
+,25,Female,Edge,11.27,9,404,11.39,Mobile,Canada,Instagram,4,72.93,No,No,Silver,Net Banking,No,Evening,4
+643,,Male,Edge,15.21,10,223,88.31,Tablet,India,Google,1,59.86,Yes,Yes,Gold,Credit Card,Yes,Morning,1
+644,23,Female,Safari,10.51,10,210,92.8,Tablet,Australia,Facebook,6,466.73,Yes,No,Gold,PayPal,No,Afternoon,4
+645,,Male,Safari,14.68,10,322,25.6,Mobile,Canada,Direct,5,,Yes,Yes,Platinum,UPI,No,Evening,1
+646,36,Female,Chrome,14.32,19,151,36.73,Desktop,Australia,Direct,9,173.32,Yes,No,Platinum,Net Banking,No,Afternoon,2
+647,25,Male,Firefox,22.68,11,335,98.39,Mobile,Australia,Instagram,6,269.28,No,No,Gold,PayPal,No,Morning,2
+648,37,Male,Safari,2.89,11,347,56.61,Tablet,USA,Direct,8,180.45,No,Yes,Silver,Net Banking,Yes,Morning,4
+,43,Male,Safari,15.44,3,275,49.71,Desktop,UK,Google,1,,No,No,Gold,Net Banking,Yes,Afternoon,3
+650,45,Female,Chrome,10.4,19,441,50.04,Mobile,USA,Instagram,8,451.35,No,Yes,Silver,Credit Card,Yes,Morning,1
+651,40,Male,Chrome,12.19,1,413,69.62,Tablet,Australia,Instagram,6,169.74,Yes,No,Platinum,Credit Card,Yes,Morning,5
+652,22,Male,Safari,18.4,12,222,95.45,Desktop,India,Facebook,1,55.09,No,Yes,Silver,UPI,No,Afternoon,3
+653,28,Female,Chrome,17.59,15,366,36.66,Tablet,India,Direct,9,112.98,Yes,Yes,Gold,Net Banking,Yes,Afternoon,2
+654,35,Male,Edge,16.71,14,398,17.27,Desktop,USA,Facebook,1,242.45,No,No,Platinum,PayPal,Yes,Night,1
+655,35,Male,Chrome,8.71,3,308,,Desktop,India,Instagram,3,,No,No,Gold,UPI,No,Evening,3
+656,26,Female,Edge,,13,257,2.04,Mobile,Australia,Direct,1,232.2,Yes,Yes,Gold,Credit Card,Yes,Night,5
+657,30,Male,Safari,10.62,18,189,55.54,Desktop,Canada,Facebook,0,381.76,Yes,Yes,Silver,UPI,No,Night,3
+658,43,Female,Firefox,21.93,16,244,92.91,Tablet,Australia,Direct,5,216.11,No,Yes,Gold,UPI,No,Night,5
+659,,Female,Edge,11.75,6,191,71.31,Desktop,Canada,Instagram,9,,Yes,Yes,Gold,Net Banking,Yes,Night,2
+660,,Female,Firefox,20.15,10,391,99.3,Tablet,India,Instagram,4,185.4,Yes,No,Platinum,PayPal,Yes,Evening,1
+661,45,Male,Safari,15.51,17,274,90.95,Desktop,UK,Instagram,2,374.06,Yes,No,Silver,Credit Card,Yes,Afternoon,2
+662,,Male,Chrome,6.63,17,352,49.19,Desktop,UK,Google,0,217.79,No,No,Silver,UPI,No,Morning,1
+663,43,Female,Edge,13.22,8,426,,Mobile,Australia,Facebook,8,,No,No,Platinum,UPI,No,Morning,3
+664,42,Female,Edge,23.51,4,321,62.84,Desktop,Australia,Facebook,7,219.43,No,No,Platinum,Net Banking,Yes,Afternoon,2
+665,42,Male,Safari,19.12,15,418,11.09,Desktop,India,Instagram,5,232.86,No,Yes,Silver,UPI,No,Afternoon,1
+666,38,Male,Safari,12.82,1,265,60.77,Tablet,UK,Facebook,5,155.22,Yes,Yes,Platinum,PayPal,Yes,Afternoon,5
+667,28,Male,Chrome,,7,339,46.41,Tablet,UK,Instagram,3,497.89,Yes,No,Silver,Net Banking,No,Morning,1
+668,41,Female,Firefox,16.41,10,321,64.27,Tablet,Australia,Facebook,1,386.14,Yes,No,Platinum,Credit Card,Yes,Night,2
+669,,Male,Edge,23.21,7,230,56.52,Desktop,UK,Direct,3,349.3,Yes,Yes,Silver,UPI,No,Night,2
+670,37,Female,Firefox,14.6,1,269,31.04,Tablet,Australia,Facebook,1,428.88,No,No,Silver,UPI,No,Night,3
+,28,Female,Edge,13.54,17,442,60.78,Tablet,USA,Instagram,6,,Yes,No,Platinum,Net Banking,Yes,Evening,5
+672,32,Male,Edge,19.94,12,266,36.6,Desktop,UK,Facebook,8,397.58,No,Yes,Gold,UPI,No,Night,1
+673,34,Male,Chrome,16.26,17,134,19.46,Tablet,Canada,Direct,1,212.14,No,No,Gold,Credit Card,Yes,Evening,2
+674,39,Female,Edge,17.79,15,265,67.51,Mobile,India,Direct,8,,No,No,Platinum,PayPal,No,Morning,1
+675,41,Female,Edge,10.69,16,225,,Mobile,Australia,Direct,8,33.03,Yes,No,Silver,PayPal,Yes,Evening,4
+676,,Male,Safari,20.86,14,346,88.9,Tablet,UK,Instagram,7,147.52,Yes,No,Platinum,Net Banking,Yes,Afternoon,5
+677,36,Female,Chrome,19.91,3,361,19.93,Tablet,UK,Google,0,190.33,No,Yes,Gold,UPI,Yes,Afternoon,5
+,,Male,Safari,21.76,19,336,,Tablet,Australia,Instagram,4,316.48,No,No,Silver,Net Banking,No,Morning,4
+679,43,Male,Edge,8.2,12,259,57.15,Desktop,Canada,Direct,9,237.46,Yes,No,Silver,Net Banking,Yes,Night,5
+680,,Female,Chrome,,19,306,19.77,Mobile,UK,Facebook,3,307.84,No,Yes,Silver,Net Banking,No,Morning,4
+681,33,Female,Edge,,18,268,43.99,Mobile,USA,Direct,6,359.53,Yes,Yes,Gold,Net Banking,Yes,Afternoon,1
+682,31,Male,Chrome,13.8,14,155,67.55,Tablet,India,Google,7,30.93,No,Yes,Gold,Net Banking,No,Night,4
+,29,Female,Firefox,,9,289,31.85,Tablet,Australia,Google,9,136.56,No,No,Silver,UPI,Yes,Afternoon,3
+684,28,Female,Firefox,18.19,3,564,11.38,Desktop,UK,Direct,7,93.74,Yes,Yes,Silver,PayPal,No,Morning,4
+685,23,Male,Chrome,12.81,12,197,61.52,Desktop,India,Instagram,1,101.85,Yes,Yes,Gold,PayPal,No,Night,1
+686,45,Female,Edge,21.28,17,115,22.41,Mobile,Australia,Google,2,256.53,No,No,Gold,PayPal,No,Morning,5
+687,39,Male,Chrome,25.49,5,442,68.15,Desktop,Australia,Direct,9,372.59,No,Yes,Silver,UPI,Yes,Afternoon,3
+,36,Female,Edge,12.03,8,345,83.95,Mobile,Australia,Instagram,9,143.66,Yes,No,Platinum,UPI,Yes,Night,4
+,29,Male,Firefox,11.16,19,330,12.34,Tablet,Canada,Facebook,6,413.98,No,No,Platinum,Net Banking,No,Afternoon,1
+690,46,Female,Edge,18.74,4,264,43.76,Tablet,USA,Instagram,3,447.3,No,No,Platinum,PayPal,No,Night,3
+691,21,Female,Safari,,15,323,44.49,Mobile,Australia,Google,5,181.76,No,Yes,Gold,Net Banking,No,Evening,3
+692,34,Female,Firefox,16.85,19,305,63.25,Tablet,Canada,Instagram,7,343.86,No,No,Platinum,PayPal,Yes,Evening,3
+693,45,Female,Safari,21.65,15,431,33.44,Desktop,Australia,Instagram,7,67.35,No,Yes,Platinum,Credit Card,Yes,Afternoon,4
+694,15,Female,Firefox,13.64,14,392,41.86,Tablet,Australia,Facebook,6,,No,Yes,Gold,UPI,No,Morning,1
+695,37,Female,Firefox,9.67,16,360,1.2,Tablet,Canada,Direct,1,,Yes,No,Platinum,Credit Card,Yes,Evening,1
+696,28,Female,Safari,,10,232,12.24,Mobile,USA,Instagram,1,,No,No,Silver,PayPal,Yes,Evening,1
+697,36,Female,Chrome,14.11,14,323,,Desktop,India,Facebook,2,216.73,Yes,Yes,Gold,Net Banking,Yes,Night,2
+698,31,Male,Edge,,11,238,21.59,Desktop,UK,Google,3,464.94,No,No,Silver,UPI,Yes,Night,5
+699,41,Female,Firefox,19.32,2,423,14.46,Tablet,Australia,Direct,0,237.59,No,Yes,Platinum,UPI,Yes,Night,1
+700,47,Female,Edge,21.96,19,229,32.44,Tablet,USA,Google,4,25.14,Yes,Yes,Silver,Net Banking,No,Afternoon,2
+701,60,Female,Firefox,21.94,3,287,16.35,Desktop,UK,Direct,6,,Yes,Yes,Gold,Credit Card,No,Morning,2
+702,34,Female,Edge,11.49,4,191,5.96,Desktop,Australia,Instagram,9,399.79,Yes,Yes,Platinum,Credit Card,Yes,Morning,3
+703,42,Female,Firefox,10.98,11,250,28.39,Mobile,UK,Instagram,4,327.07,Yes,Yes,Gold,Credit Card,No,Night,5
+704,38,Male,Chrome,5.93,13,249,,Tablet,Canada,Direct,6,483.49,Yes,Yes,Platinum,Credit Card,Yes,Afternoon,3
+705,39,Male,Firefox,15.02,18,285,79.94,Tablet,USA,Google,4,423.2,No,No,Gold,UPI,No,Night,5
+706,50,Female,Chrome,,18,210,6.27,Desktop,USA,Google,9,268.01,Yes,Yes,Gold,PayPal,Yes,Morning,3
+707,28,Female,Firefox,11.47,19,422,74.74,Mobile,India,Google,7,111.2,Yes,Yes,Silver,Net Banking,Yes,Afternoon,4
+708,31,Female,Edge,7.6,12,281,38.28,Desktop,India,Instagram,6,11.85,Yes,No,Gold,PayPal,Yes,Night,5
+709,33,Female,Safari,24.43,1,247,67.53,Tablet,UK,Direct,0,490.45,No,No,Gold,PayPal,No,Night,2
+710,25,Male,Firefox,11.47,6,377,,Tablet,Canada,Direct,0,469.78,No,Yes,Silver,Credit Card,No,Morning,2
+711,35,Female,Firefox,14.44,3,516,92.07,Tablet,UK,Google,4,144.33,No,Yes,Platinum,PayPal,No,Afternoon,5
+712,,Male,Chrome,12.67,17,260,76.74,Tablet,Australia,Instagram,1,322.73,Yes,Yes,Platinum,Credit Card,Yes,Morning,3
+713,43,Female,Edge,8.33,3,275,14.01,Mobile,USA,Direct,8,367.33,No,No,Gold,Credit Card,Yes,Afternoon,4
+714,33,Male,Chrome,19.51,1,226,21.88,Tablet,UK,Direct,1,293.23,No,Yes,Silver,PayPal,No,Afternoon,4
+715,46,Male,Edge,6.26,3,366,64.4,Desktop,UK,Google,8,423.05,No,Yes,Platinum,Net Banking,No,Night,1
+716,14,Male,Edge,20.62,4,396,92.16,Mobile,USA,Google,9,48.13,No,No,Silver,PayPal,Yes,Morning,5
+,58,Female,Chrome,,6,295,44.58,Mobile,USA,Direct,1,449.28,Yes,No,Gold,PayPal,Yes,Afternoon,4
+718,41,Female,Safari,13.66,7,256,,Tablet,India,Instagram,3,202.09,Yes,No,Silver,UPI,Yes,Evening,3
+719,31,Female,Edge,13.74,8,353,23.78,Mobile,India,Facebook,2,245.54,Yes,Yes,Gold,Credit Card,No,Night,3
+720,40,Female,Safari,17.27,13,374,38.3,Tablet,USA,Direct,5,227.92,Yes,No,Platinum,UPI,Yes,Morning,2
+721,33,Female,Chrome,11.79,4,455,28.6,Mobile,UK,Direct,3,270.33,Yes,Yes,Platinum,Net Banking,Yes,Afternoon,4
+722,14,Male,Safari,15.88,6,242,35.06,Mobile,Australia,Instagram,8,303.1,Yes,No,Platinum,PayPal,Yes,Night,4
+723,35,Male,Edge,10.56,11,385,2.06,Desktop,UK,Direct,8,358.07,Yes,No,Platinum,UPI,Yes,Morning,3
+724,44,Male,Chrome,4.24,1,311,4.11,Desktop,Australia,Facebook,9,267.22,Yes,Yes,Silver,UPI,No,Morning,2
+725,45,Female,Safari,18.08,8,127,68.07,Desktop,USA,Instagram,8,345.54,No,Yes,Silver,PayPal,Yes,Night,4
+726,,Male,Chrome,,2,452,68.18,Mobile,Australia,Facebook,2,,No,No,Silver,PayPal,No,Afternoon,3
+727,45,Female,Chrome,17.83,8,330,33.02,Desktop,India,Facebook,2,468.97,Yes,Yes,Gold,Credit Card,Yes,Night,2
+,39,Male,Safari,14.76,9,361,88.55,Desktop,USA,Direct,3,41.62,Yes,Yes,Platinum,Credit Card,No,Evening,2
+729,37,Female,Edge,13.02,4,395,26.61,Desktop,Canada,Facebook,8,277.31,No,No,Platinum,UPI,No,Night,3
+730,28,Male,Edge,13.17,17,360,39.58,Mobile,Australia,Direct,5,52.82,No,Yes,Platinum,PayPal,No,Morning,2
+731,32,Female,Edge,13.02,7,203,73.14,Tablet,Australia,Direct,8,226.96,No,Yes,Silver,Credit Card,No,Evening,2
+732,32,Male,Edge,15.99,10,367,74.36,Desktop,Canada,Instagram,7,136.22,Yes,No,Silver,Credit Card,Yes,Evening,1
+733,38,Male,Firefox,3.07,5,350,86.12,Mobile,Canada,Instagram,6,469.08,No,Yes,Platinum,Net Banking,No,Afternoon,2
+734,43,Male,Chrome,2.2,10,133,2.91,Mobile,USA,Instagram,4,16.41,Yes,Yes,Gold,UPI,No,Night,4
+735,29,Female,Chrome,17.26,12,467,18.38,Tablet,UK,Direct,8,201.69,No,Yes,Silver,UPI,Yes,Afternoon,2
+736,21,Male,Firefox,14,6,262,64.06,Desktop,Canada,Facebook,3,393.2,No,No,Platinum,UPI,No,Night,4
+737,49,Male,Chrome,10.07,1,400,33.82,Mobile,Australia,Facebook,3,102.35,Yes,Yes,Platinum,PayPal,No,Morning,3
+738,25,Male,Chrome,9.93,3,266,4.36,Mobile,Canada,Instagram,7,409.64,No,Yes,Platinum,Net Banking,Yes,Afternoon,2
+739,40,Female,Safari,12.21,7,247,58.65,Mobile,USA,Instagram,3,431.27,Yes,Yes,Gold,Credit Card,No,Morning,3
+740,,Male,Firefox,12.91,11,292,39.31,Tablet,USA,Direct,6,356.92,No,Yes,Platinum,Net Banking,Yes,Morning,5
+741,32,Female,Chrome,,12,512,36.41,Desktop,Australia,Google,3,112.44,Yes,Yes,Silver,Credit Card,No,Evening,2
+742,41,Male,Chrome,9.65,9,501,26.44,Mobile,Australia,Google,0,143.3,Yes,No,Gold,Credit Card,No,Afternoon,3
+743,23,Male,Firefox,18.82,1,247,0.6,Mobile,Australia,Direct,9,91.8,Yes,Yes,Gold,Net Banking,No,Night,5
+744,51,Female,Firefox,17.95,4,425,,Mobile,UK,Google,8,100.19,No,No,Platinum,UPI,Yes,Afternoon,4
+745,61,Female,Safari,69.75,2,302,47.42,Mobile,Australia,Google,3,27.88,Yes,Yes,Silver,PayPal,No,Morning,4
+746,47,Male,Safari,18.82,2,502,27.57,Desktop,USA,Google,2,430.08,No,No,Silver,Net Banking,Yes,Evening,4
+747,27,Female,Edge,17.21,17,415,87.44,Desktop,USA,Instagram,2,268.97,No,Yes,Platinum,UPI,No,Afternoon,4
+748,12,Female,Edge,8.72,2,328,14.3,Mobile,Canada,Facebook,8,170.6,Yes,No,Platinum,UPI,No,Evening,4
+749,40,Female,Safari,12.03,4,308,87.53,Mobile,Australia,Facebook,7,151.89,Yes,Yes,Silver,PayPal,No,Evening,1
+750,22,Male,Chrome,16.94,11,361,,Mobile,UK,Instagram,9,276.9,No,Yes,Gold,PayPal,No,Morning,3
+751,31,Male,Firefox,12.01,19,348,,Tablet,India,Instagram,6,170.08,No,Yes,Gold,UPI,Yes,Afternoon,5
+752,50,Male,Safari,18.05,13,190,,Tablet,Canada,Instagram,6,433.22,Yes,Yes,Platinum,PayPal,Yes,Afternoon,5
+753,51,Female,Edge,20.81,18,321,33.01,Tablet,UK,Google,3,113.37,No,No,Platinum,UPI,Yes,Afternoon,2
+754,,Female,Firefox,14.86,19,235,50.66,Mobile,Australia,Direct,2,442.33,Yes,Yes,Silver,Credit Card,No,Evening,3
+755,36,Female,Edge,11.97,15,247,35.39,Tablet,UK,Direct,3,335.41,Yes,Yes,Silver,PayPal,Yes,Night,1
+756,44,Female,Chrome,11.4,12,411,,Desktop,India,Google,5,478.75,Yes,Yes,Silver,Credit Card,Yes,Afternoon,1
+757,15,Male,Chrome,13.18,11,320,42.52,Tablet,UK,Google,3,17.4,No,Yes,Silver,PayPal,No,Morning,3
+758,20,Female,Edge,12.83,1,255,67.16,Mobile,India,Instagram,3,38.96,No,No,Platinum,UPI,Yes,Evening,4
+,32,Male,Firefox,19.32,16,179,60.44,Desktop,India,Instagram,1,255.44,No,Yes,Platinum,UPI,No,Night,4
+760,43,Female,Edge,12.07,13,222,24.45,Mobile,India,Facebook,6,457.07,No,Yes,Silver,UPI,No,Afternoon,3
+,31,Male,Firefox,14.12,6,294,81.28,Desktop,UK,Instagram,5,,Yes,Yes,Platinum,UPI,Yes,Night,5
+762,43,Male,Safari,18.9,6,469,,Tablet,Australia,Google,1,314.85,No,Yes,Platinum,UPI,Yes,Evening,4
+763,23,Female,Edge,13.35,10,195,,Tablet,USA,Facebook,4,25.49,Yes,No,Silver,UPI,No,Night,2
+764,36,Female,Edge,12.78,2,329,17.51,Desktop,USA,Instagram,5,183.54,Yes,Yes,Gold,PayPal,No,Evening,1
+765,40,Female,Firefox,19.36,3,341,84.78,Desktop,UK,Facebook,4,179.47,No,No,Gold,PayPal,No,Night,4
+766,43,Male,Safari,,6,422,87.2,Mobile,Australia,Facebook,3,275.62,No,Yes,Silver,Credit Card,No,Night,5
+767,30,Female,Firefox,15.19,16,312,64.22,Desktop,USA,Instagram,8,,No,No,Gold,Net Banking,Yes,Evening,4
+768,35,Male,Firefox,23.3,6,341,50.64,Mobile,India,Direct,2,140.91,Yes,No,Platinum,PayPal,No,Night,4
+769,20,Female,Edge,15.83,13,418,95.73,Desktop,UK,Google,1,,No,Yes,Gold,PayPal,Yes,Morning,1
+770,34,Male,Edge,,4,222,97.27,Desktop,UK,Google,8,472.84,Yes,Yes,Silver,Net Banking,No,Afternoon,2
+771,46,Female,Firefox,24.78,15,379,,Tablet,Canada,Facebook,7,333.49,Yes,Yes,Silver,Net Banking,Yes,Night,2
+772,32,Male,Chrome,11.86,6,161,35.96,Tablet,Canada,Direct,8,337.38,No,Yes,Gold,Credit Card,No,Night,5
+773,28,Male,Chrome,12.39,1,306,81.72,Mobile,Canada,Direct,9,493.25,No,No,Gold,Credit Card,No,Night,3
+774,43,Male,Chrome,19,9,276,8.93,Mobile,Australia,Instagram,2,85.2,No,No,Platinum,UPI,Yes,Afternoon,3
+775,58,Female,Edge,14.2,12,228,29.06,Mobile,UK,Instagram,0,26.58,Yes,No,Gold,Credit Card,No,Evening,3
+776,57,Male,Edge,10.3,11,397,98.56,Desktop,Canada,Google,0,375.3,Yes,No,Gold,Credit Card,Yes,Afternoon,5
+777,38,Female,Safari,13.25,13,403,81.43,Desktop,UK,Instagram,2,225.01,No,Yes,Gold,Net Banking,No,Night,4
+,43,Male,Edge,7.93,1,407,93.96,Mobile,India,Instagram,3,220.12,No,Yes,Platinum,PayPal,No,Evening,2
+779,51,Female,Safari,15.12,19,338,59.48,Desktop,Canada,Facebook,1,120.4,Yes,No,Gold,UPI,No,Night,2
+780,37,Female,Edge,15.82,4,177,40.77,Tablet,UK,Direct,7,258.36,No,Yes,Platinum,Credit Card,Yes,Evening,4
+781,40,Male,Chrome,20.42,5,267,97.97,Desktop,Australia,Direct,2,226.66,No,No,Platinum,Net Banking,No,Night,2
+782,32,Male,Chrome,,17,401,30.94,Tablet,Australia,Instagram,3,179.27,Yes,No,Silver,UPI,Yes,Night,2
+,59,Female,Firefox,13.41,5,399,75.74,Mobile,Australia,Instagram,5,226.95,Yes,No,Silver,UPI,No,Evening,3
+784,,Male,Firefox,25.54,19,420,,Desktop,Canada,Instagram,9,198.08,No,Yes,Platinum,Net Banking,Yes,Morning,3
+785,32,Female,Safari,9.63,3,331,22.85,Mobile,Australia,Google,5,470.55,Yes,No,Platinum,Credit Card,Yes,Afternoon,1
+786,29,Female,Safari,8,11,282,1.75,Tablet,USA,Google,1,490.32,No,No,Platinum,Credit Card,No,Evening,1
+787,16,Female,Firefox,,2,103,38.38,Mobile,India,Facebook,5,421.55,Yes,No,Silver,Credit Card,No,Afternoon,2
+788,19,Female,Safari,9.14,14,386,54.77,Tablet,UK,Google,3,495.3,Yes,Yes,Platinum,Credit Card,No,Morning,3
+789,28,Female,Edge,18.79,6,290,18.32,Tablet,USA,Direct,4,140.2,Yes,Yes,Silver,UPI,No,Morning,1
+790,44,Female,Chrome,23.41,19,175,41.46,Mobile,Canada,Google,6,423.03,Yes,No,Silver,PayPal,Yes,Evening,1
+791,38,Female,Firefox,23.62,1,376,61.52,Tablet,UK,Direct,6,209.25,No,Yes,Platinum,UPI,Yes,Morning,3
+792,22,Female,Firefox,5.58,7,442,71.49,Mobile,UK,Google,5,375.61,Yes,Yes,Platinum,UPI,No,Morning,1
+,26,Female,Edge,19.28,2,387,5.27,Mobile,Australia,Google,9,108.68,No,Yes,Platinum,Net Banking,Yes,Night,4
+,38,Male,Safari,22.64,19,367,66.42,Mobile,UK,Facebook,5,407.86,Yes,Yes,Silver,UPI,No,Night,4
+795,52,Female,Firefox,19.99,1,393,5.67,Tablet,UK,Instagram,5,50.9,No,No,Gold,Credit Card,No,Morning,3
+796,,Female,Firefox,11.83,9,27,2.82,Tablet,India,Instagram,3,142.57,Yes,No,Platinum,Net Banking,No,Night,3
+797,40,Female,Edge,15.84,17,472,15.24,Desktop,Canada,Instagram,2,412.76,Yes,No,Gold,Net Banking,No,Morning,1
+798,31,Male,Chrome,,10,221,65.36,Mobile,USA,Facebook,0,376.11,No,No,Gold,Net Banking,No,Night,2
+799,31,Male,Firefox,18.74,6,230,5.28,Mobile,Australia,Direct,2,255.61,Yes,Yes,Gold,Net Banking,Yes,Morning,5
+,23,Male,Firefox,7.68,3,253,2.09,Mobile,India,Google,2,339.67,No,No,Gold,Net Banking,No,Morning,4
+801,41,Male,Edge,18.43,15,264,11.8,Mobile,USA,Facebook,8,100.93,No,Yes,Gold,Credit Card,Yes,Afternoon,4
+802,30,Male,Firefox,11.45,6,450,94.97,Mobile,USA,Direct,2,337.2,Yes,No,Silver,PayPal,No,Morning,3
+803,31,Male,Firefox,,3,354,90.73,Mobile,India,Facebook,7,13.91,Yes,No,Silver,PayPal,No,Afternoon,2
+804,45,Female,Chrome,13.73,10,232,8.65,Mobile,Australia,Facebook,7,418.28,No,Yes,Silver,Net Banking,No,Evening,3
+805,45,Male,Firefox,13.2,12,247,,Desktop,Canada,Direct,2,262.98,Yes,No,Gold,PayPal,No,Morning,1
+806,28,Male,Edge,19.73,1,549,,Desktop,India,Instagram,9,472.5,Yes,Yes,Silver,UPI,Yes,Morning,2
+807,38,Male,Chrome,22.63,16,335,9.77,Mobile,India,Google,9,244.3,No,No,Platinum,PayPal,Yes,Afternoon,1
+808,44,Male,Chrome,,17,257,9.46,Mobile,India,Instagram,5,222.21,Yes,No,Gold,UPI,No,Morning,4
+809,33,Male,Chrome,15.93,10,138,8.6,Desktop,Australia,Facebook,7,230.53,Yes,Yes,Platinum,Credit Card,No,Night,3
+810,42,Female,Safari,9.57,12,132,97.65,Desktop,India,Direct,7,186.27,Yes,No,Gold,Net Banking,No,Afternoon,3
+811,32,Female,Edge,12.7,19,188,74.31,Mobile,India,Facebook,9,91.67,Yes,Yes,Gold,UPI,No,Afternoon,5
+812,32,Male,Safari,11.37,8,310,21.45,Mobile,UK,Instagram,9,422.61,Yes,Yes,Gold,Credit Card,Yes,Night,2
+813,26,Female,Firefox,8.7,8,411,,Desktop,UK,Instagram,8,200.65,No,No,Gold,Credit Card,Yes,Morning,4
+814,52,Male,Chrome,20.3,10,362,96.52,Desktop,UK,Instagram,8,,Yes,No,Platinum,Net Banking,No,Evening,5
+815,30,Female,Safari,15.52,10,417,42.55,Mobile,UK,Google,7,19.74,Yes,Yes,Gold,PayPal,Yes,Evening,5
+816,27,Female,Firefox,12.27,18,357,59.84,Desktop,India,Instagram,6,39.52,No,No,Gold,Credit Card,Yes,Evening,3
+817,25,Male,Safari,14.71,10,177,27.92,Mobile,UK,Google,9,302.62,Yes,No,Silver,PayPal,No,Afternoon,2
+,36,Male,Chrome,20.98,7,342,75.84,Tablet,USA,Google,2,440.82,No,Yes,Gold,PayPal,Yes,Afternoon,3
+819,25,Male,Firefox,20.14,4,347,19.68,Mobile,Canada,Instagram,6,251.76,No,Yes,Gold,PayPal,No,Night,2
+820,,Female,Chrome,17.79,1,288,78.69,Mobile,UK,Direct,3,90.84,Yes,No,Gold,UPI,Yes,Morning,5
+821,43,Female,Chrome,11.65,11,269,23.06,Mobile,Australia,Facebook,1,66.9,Yes,Yes,Gold,PayPal,Yes,Night,1
+822,39,Male,Safari,15.6,19,285,9.79,Desktop,Canada,Facebook,7,,No,No,Gold,PayPal,No,Afternoon,4
+823,22,Male,Edge,9.55,5,145,47.88,Mobile,USA,Google,1,353.8,Yes,No,Gold,Credit Card,Yes,Evening,5
+824,42,Female,Firefox,14.56,8,167,81.32,Mobile,Canada,Google,0,483.44,No,No,Platinum,Net Banking,Yes,Morning,3
+825,,Male,Firefox,19.89,2,554,38.49,Desktop,Canada,Google,4,50.35,Yes,Yes,Platinum,UPI,Yes,Evening,4
+826,46,Female,Edge,20.82,2,175,2.89,Tablet,USA,Facebook,9,452.28,Yes,Yes,Gold,PayPal,Yes,Morning,5
+827,49,Female,Firefox,11.79,14,123,55.33,Tablet,UK,Google,8,424.36,No,No,Platinum,Net Banking,Yes,Evening,2
+828,19,Male,Safari,,9,228,68.05,Desktop,USA,Direct,4,447.66,No,Yes,Silver,PayPal,No,Morning,3
+829,43,Female,Firefox,18.14,10,346,74.07,Mobile,Australia,Direct,1,12.82,No,Yes,Silver,PayPal,No,Evening,5
+830,51,Female,Safari,13.8,13,356,40.19,Tablet,USA,Google,9,373.53,No,Yes,Gold,Credit Card,Yes,Night,2
+831,37,Female,Firefox,18.73,1,198,9.7,Tablet,India,Facebook,3,278.98,No,Yes,Gold,Net Banking,No,Afternoon,2
+832,42,Female,Safari,21.13,14,310,,Desktop,India,Instagram,7,290.86,No,Yes,Platinum,Credit Card,Yes,Night,2
+833,37,Male,Edge,19.25,2,246,32.95,Tablet,Canada,Facebook,6,239.91,No,No,Silver,Credit Card,Yes,Evening,4
+834,,Female,Firefox,9.73,4,319,94.69,Tablet,UK,Instagram,4,,No,Yes,Gold,PayPal,No,Morning,3
+835,39,Male,Safari,13.61,19,271,50.27,Desktop,UK,Instagram,3,499.92,No,Yes,Silver,PayPal,Yes,Night,2
+836,15,Female,Chrome,,1,231,47.23,Tablet,India,Google,4,358.16,No,Yes,Platinum,PayPal,No,Evening,5
+837,34,Male,Chrome,10.98,4,235,30.92,Mobile,Australia,Direct,6,342.24,Yes,No,Gold,Net Banking,Yes,Afternoon,2
+838,33,Female,Chrome,22.79,11,80,33.88,Desktop,USA,Google,4,330.67,Yes,No,Gold,Net Banking,Yes,Morning,3
+839,42,Female,Firefox,16.57,13,278,51.28,Mobile,USA,Instagram,7,350.65,No,Yes,Gold,Net Banking,No,Night,4
+840,47,Male,Safari,12.73,18,292,30.67,Mobile,USA,Google,6,,Yes,No,Silver,Net Banking,Yes,Afternoon,2
+841,33,Female,Chrome,12.42,10,159,,Desktop,Australia,Instagram,6,166.91,No,Yes,Platinum,PayPal,No,Evening,5
+842,23,Male,Firefox,11.52,5,266,43.9,Tablet,Australia,Google,8,394.33,Yes,No,Silver,PayPal,No,Morning,3
+843,38,Female,Safari,18.53,1,274,29.2,Desktop,USA,Direct,7,36.01,Yes,No,Silver,Credit Card,Yes,Evening,2
+844,27,Male,Chrome,19.12,14,115,15.54,Tablet,USA,Direct,7,382.03,Yes,Yes,Gold,PayPal,Yes,Morning,4
+,29,Male,Chrome,11.68,16,223,67.24,Mobile,Australia,Facebook,5,408.78,Yes,No,Platinum,Net Banking,No,Afternoon,1
+846,59,Female,Firefox,22.35,18,220,2.58,Tablet,USA,Instagram,6,265.58,Yes,Yes,Platinum,UPI,Yes,Afternoon,5
+847,28,Female,Safari,13.07,3,318,45,Mobile,Australia,Instagram,7,455.97,No,Yes,Gold,PayPal,Yes,Afternoon,2
+848,19,Female,Firefox,11.02,3,425,55.01,Mobile,Canada,Google,4,241.81,Yes,No,Platinum,Net Banking,No,Night,2
+849,41,Female,Chrome,,4,305,33.98,Mobile,India,Facebook,9,97.26,Yes,No,Gold,Credit Card,Yes,Night,1
+850,42,Female,Firefox,9,7,416,74.98,Desktop,India,Direct,1,187.09,No,No,Gold,PayPal,Yes,Night,3
+851,44,Female,Firefox,8.17,13,278,67.57,Tablet,Australia,Google,6,453.88,Yes,Yes,Platinum,UPI,No,Evening,1
+852,43,Female,Chrome,10.23,9,337,97.14,Tablet,USA,Facebook,9,496.93,Yes,Yes,Platinum,Net Banking,Yes,Night,3
+853,36,Female,Chrome,,3,307,50.88,Tablet,India,Direct,2,216.71,Yes,Yes,Platinum,PayPal,Yes,Morning,2
+854,37,Female,Safari,18.75,17,541,53.78,Mobile,UK,Google,9,91.75,Yes,No,Platinum,Net Banking,Yes,Afternoon,1
+855,44,Male,Safari,8.52,15,285,24.58,Desktop,USA,Direct,7,,Yes,No,Silver,UPI,Yes,Evening,2
+856,51,Male,Chrome,16.84,10,378,38.55,Tablet,Australia,Instagram,5,281.12,Yes,No,Gold,UPI,Yes,Evening,1
+857,22,Male,Chrome,19.21,15,320,2.69,Tablet,UK,Facebook,3,290.33,Yes,No,Gold,Credit Card,Yes,Night,2
+858,29,Female,Edge,22.22,1,413,,Desktop,Australia,Direct,1,,No,Yes,Gold,UPI,No,Morning,2
+859,41,Male,Edge,12.54,10,363,31.16,Tablet,USA,Facebook,6,,No,No,Gold,PayPal,Yes,Afternoon,2
+860,38,Female,Safari,,7,334,54.04,Desktop,Canada,Google,0,358.49,No,Yes,Silver,UPI,Yes,Evening,4
+861,17,Female,Firefox,25.18,7,186,25.5,Desktop,Canada,Facebook,6,137.81,Yes,Yes,Platinum,PayPal,Yes,Afternoon,1
+862,29,Female,Chrome,21.77,3,195,62.1,Tablet,Canada,Google,9,203.57,Yes,Yes,Platinum,PayPal,No,Morning,4
+863,,Female,Chrome,13.63,7,238,44.76,Desktop,USA,Facebook,9,,No,No,Platinum,Net Banking,Yes,Afternoon,2
+,35,Male,Firefox,20.73,9,271,48.19,Desktop,USA,Google,6,320.36,No,No,Gold,PayPal,No,Night,5
+,31,Male,Safari,16.24,8,311,94.26,Tablet,UK,Google,9,91.54,No,No,Silver,PayPal,No,Afternoon,3
+866,,Male,Edge,15.08,3,239,70.62,Mobile,USA,Google,2,169.51,Yes,No,Silver,Credit Card,No,Evening,1
+867,35,Female,Safari,27.42,5,102,26.19,Tablet,USA,Direct,3,397.63,No,No,Platinum,Net Banking,No,Night,1
+868,37,Female,Firefox,,13,403,50.39,Tablet,UK,Instagram,3,,Yes,No,Gold,PayPal,No,Night,3
+,36,Male,Chrome,24.43,13,345,46.67,Mobile,UK,Facebook,3,348.61,No,No,Platinum,Credit Card,Yes,Night,4
+870,37,Female,Edge,9.69,8,306,79.51,Desktop,Australia,Instagram,8,286.13,No,No,Gold,Net Banking,Yes,Night,3
+871,35,Male,Firefox,23.99,18,425,83.34,Tablet,India,Instagram,5,82.26,Yes,No,Platinum,UPI,Yes,Evening,5
+872,14,Male,Chrome,,7,220,28.34,Mobile,India,Instagram,9,,Yes,No,Platinum,PayPal,Yes,Morning,2
+873,25,Male,Safari,14.15,10,287,82.12,Mobile,Australia,Instagram,8,79.75,Yes,No,Silver,UPI,No,Morning,3
+874,32,Female,Edge,16.95,10,316,17.95,Tablet,Canada,Facebook,3,,Yes,No,Gold,Net Banking,No,Night,3
+875,43,Male,Chrome,,11,258,76.28,Tablet,USA,Facebook,6,161.19,Yes,No,Silver,Net Banking,No,Morning,2
+876,32,Female,Chrome,20.28,12,220,24.88,Mobile,UK,Instagram,9,348.1,Yes,No,Silver,Credit Card,No,Evening,1
+877,27,Male,Chrome,19.42,13,387,29.79,Tablet,UK,Facebook,8,393.36,No,Yes,Platinum,PayPal,No,Morning,5
+878,44,Female,Chrome,11.73,8,328,85.25,Mobile,Canada,Facebook,9,92.48,Yes,Yes,Gold,PayPal,No,Morning,3
+879,,Female,Chrome,,17,362,42.01,Tablet,UK,Google,2,407.88,Yes,Yes,Gold,Credit Card,Yes,Evening,3
+,20,Male,Safari,14.04,14,218,,Mobile,Canada,Facebook,2,13.53,Yes,No,Platinum,UPI,Yes,Morning,1
+881,36,Female,Firefox,,17,383,15.19,Tablet,Australia,Direct,5,269.73,No,Yes,Platinum,Net Banking,Yes,Night,5
+,,Female,Edge,15.45,19,238,46.33,Tablet,Canada,Instagram,7,,No,No,Platinum,Credit Card,Yes,Night,2
+883,32,Female,Safari,21.83,16,325,73.25,Tablet,India,Facebook,0,315.67,Yes,No,Gold,Net Banking,No,Evening,2
+884,54,Male,Edge,15.92,9,498,0.54,Desktop,Canada,Instagram,3,127.45,Yes,Yes,Platinum,UPI,No,Night,4
+885,36,Female,Chrome,28.19,10,385,15.19,Tablet,Australia,Facebook,7,14.83,Yes,No,Platinum,UPI,No,Night,5
+886,21,Male,Firefox,22.23,9,334,2.04,Mobile,Canada,Instagram,5,232.83,Yes,No,Silver,UPI,Yes,Night,5
+887,21,Male,Chrome,13.49,1,435,99.29,Mobile,Australia,Direct,1,44.99,Yes,No,Platinum,PayPal,Yes,Night,3
+888,26,Female,Safari,6.12,3,243,,Desktop,India,Facebook,7,447.18,Yes,No,Platinum,Net Banking,Yes,Night,4
+,28,Male,Safari,26.94,11,349,37.36,Desktop,USA,Facebook,0,95.1,No,Yes,Gold,Net Banking,Yes,Morning,2
+890,16,Male,Edge,13.59,7,217,15.63,Desktop,Australia,Direct,0,218.36,Yes,No,Platinum,Credit Card,Yes,Evening,5
+891,38,Male,Chrome,19.64,18,264,9.04,Tablet,USA,Facebook,6,222.66,Yes,Yes,Gold,Net Banking,Yes,Afternoon,5
+892,40,Male,Chrome,11.66,13,459,53.19,Tablet,Australia,Instagram,9,280.9,Yes,Yes,Silver,PayPal,No,Evening,1
+893,31,Male,Firefox,22.99,18,327,97.59,Mobile,Canada,Direct,2,393.44,Yes,No,Silver,Credit Card,Yes,Evening,2
+894,55,Female,Firefox,19.24,16,441,67.46,Mobile,USA,Google,7,241.35,No,Yes,Gold,UPI,Yes,Evening,1
+895,31,Female,Chrome,9.56,16,290,36.51,Tablet,Australia,Instagram,8,22.62,Yes,No,Platinum,Net Banking,Yes,Morning,4
+896,47,Male,Edge,5.23,10,422,50.09,Mobile,Australia,Facebook,7,387.84,No,No,Gold,PayPal,No,Evening,5
+897,21,Male,Firefox,15.94,9,305,99.89,Tablet,USA,Instagram,0,50.26,Yes,Yes,Platinum,PayPal,Yes,Evening,4
+898,38,Female,Chrome,17.49,8,313,51.88,Desktop,Australia,Direct,0,324.36,Yes,Yes,Platinum,Net Banking,Yes,Morning,1
+899,40,Female,Chrome,18.81,19,302,96.42,Tablet,USA,Facebook,5,403.68,Yes,Yes,Platinum,PayPal,No,Night,2
+900,,Female,Chrome,11.11,3,336,1.64,Tablet,India,Facebook,0,148.52,No,No,Gold,UPI,Yes,Afternoon,5
+901,37,Male,Safari,11.78,9,274,72.1,Tablet,UK,Direct,7,,No,Yes,Silver,Net Banking,Yes,Night,2
+,28,Male,Edge,5.55,2,161,62.72,Mobile,India,Google,5,17.02,Yes,Yes,Gold,Net Banking,No,Evening,4
+903,,Female,Chrome,12.24,19,296,68.53,Tablet,USA,Facebook,4,403.9,Yes,Yes,Platinum,Net Banking,No,Night,3
+904,32,Male,Chrome,6.84,8,313,57.06,Tablet,Canada,Facebook,5,354.6,Yes,No,Gold,Credit Card,Yes,Morning,2
+905,21,Female,Chrome,11.44,18,463,4.42,Tablet,Canada,Facebook,3,123.38,Yes,No,Silver,UPI,No,Afternoon,2
+906,40,Female,Firefox,16.64,8,74,14.96,Desktop,UK,Google,0,,Yes,Yes,Gold,PayPal,No,Night,2
+907,41,Male,Chrome,,5,462,92.23,Tablet,USA,Instagram,6,350.71,Yes,Yes,Silver,Net Banking,Yes,Evening,5
+908,31,Female,Safari,11.63,6,405,23.29,Tablet,Australia,Google,9,185.5,Yes,Yes,Silver,Net Banking,No,Afternoon,4
+909,37,Female,Safari,16.36,10,369,99.29,Tablet,India,Instagram,8,89.58,No,No,Platinum,PayPal,No,Evening,4
+910,26,Female,Edge,22.39,15,315,67.96,Mobile,India,Facebook,3,264.07,No,No,Silver,UPI,Yes,Night,5
+911,22,Female,Chrome,13.61,4,198,44.44,Desktop,UK,Instagram,3,364.55,Yes,No,Gold,PayPal,No,Night,2
+912,31,Female,Chrome,8.6,3,495,92,Desktop,UK,Instagram,8,167.2,Yes,No,Gold,PayPal,Yes,Evening,2
+913,42,Male,Chrome,18.93,9,423,79.5,Tablet,UK,Instagram,3,69.67,Yes,No,Platinum,Net Banking,No,Afternoon,3
+914,,Female,Safari,20.46,16,325,42.9,Tablet,UK,Instagram,9,416.48,Yes,Yes,Gold,Credit Card,No,Afternoon,2
+915,31,Male,Firefox,11.52,16,329,6.86,Mobile,UK,Facebook,3,133.87,Yes,Yes,Platinum,Credit Card,Yes,Afternoon,1
+916,38,Male,Firefox,11.55,15,289,86.83,Tablet,UK,Direct,7,261.28,Yes,No,Gold,Credit Card,No,Night,2
+917,26,Female,Chrome,5.08,9,359,76.5,Mobile,Australia,Google,3,,No,No,Gold,Credit Card,No,Night,3
+918,23,Female,Firefox,12.7,17,296,79.07,Tablet,Australia,Instagram,8,165.37,No,Yes,Silver,Credit Card,No,Evening,1
+919,31,Female,Edge,10.39,12,331,74.49,Mobile,India,Facebook,7,327.83,No,Yes,Silver,Net Banking,No,Evening,3
+920,,Male,Safari,7.39,8,344,27.58,Desktop,India,Facebook,4,235.26,Yes,Yes,Silver,Credit Card,No,Morning,3
+921,23,Male,Chrome,13.18,14,543,85.88,Tablet,UK,Facebook,8,289.51,No,Yes,Gold,PayPal,Yes,Morning,4
+922,44,Male,Firefox,14.98,18,209,0.22,Mobile,India,Facebook,7,299.38,Yes,Yes,Platinum,Net Banking,No,Morning,5
+923,,Female,Chrome,14.06,12,316,23.73,Mobile,UK,Instagram,9,413.83,No,Yes,Platinum,PayPal,Yes,Evening,3
+924,,Female,Chrome,13.38,14,423,4.66,Tablet,Australia,Google,3,331.6,Yes,Yes,Platinum,Credit Card,No,Afternoon,2
+925,31,Female,Safari,22.62,5,383,11.06,Mobile,Canada,Facebook,3,139.51,No,Yes,Silver,UPI,No,Morning,4
+926,37,Female,Safari,16.54,1,368,53.24,Tablet,Australia,Google,0,39.21,Yes,Yes,Gold,Credit Card,Yes,Evening,1
+927,18,Female,Firefox,18.25,13,601,3.73,Tablet,USA,Google,3,10.97,No,Yes,Silver,Net Banking,No,Night,5
+928,33,Male,Safari,24.05,14,409,18.14,Mobile,Australia,Google,7,,No,Yes,Gold,PayPal,No,Afternoon,4
+929,33,Male,Edge,19.93,2,238,23.27,Mobile,USA,Direct,4,471.63,No,No,Gold,UPI,No,Morning,3
+,40,Male,Chrome,13.63,16,226,65.53,Mobile,India,Facebook,5,56.11,Yes,No,Gold,UPI,No,Night,4
+931,27,Female,Safari,5.73,5,296,46.88,Desktop,Australia,Facebook,3,248.66,Yes,No,Silver,UPI,Yes,Afternoon,2
+932,29,Female,Firefox,13.14,1,256,45.84,Tablet,Canada,Facebook,4,84.28,Yes,Yes,Gold,PayPal,Yes,Afternoon,2
+933,45,Male,Firefox,,12,308,76.84,Tablet,Australia,Google,9,474.89,Yes,Yes,Silver,Net Banking,No,Night,2
+934,39,Female,Firefox,19.9,19,334,45.67,Desktop,Australia,Facebook,7,130.95,Yes,No,Silver,UPI,Yes,Morning,5
+935,42,Male,Edge,,10,327,,Desktop,Australia,Facebook,8,255.81,No,No,Gold,PayPal,Yes,Morning,4
+936,17,Female,Safari,14.6,12,54,,Mobile,UK,Google,2,91.15,Yes,Yes,Gold,PayPal,No,Night,4
+937,28,Female,Safari,15.64,19,224,0.83,Tablet,Australia,Facebook,9,173.05,Yes,Yes,Gold,Credit Card,No,Night,3
+938,50,Female,Edge,11.92,16,372,30.54,Desktop,Australia,Instagram,3,140.74,Yes,Yes,Silver,PayPal,Yes,Night,1
+,34,Female,Safari,,17,464,60.94,Desktop,Canada,Direct,0,,No,No,Gold,Net Banking,Yes,Evening,2
+940,34,Male,Safari,11.76,13,260,,Tablet,USA,Instagram,4,215.69,No,Yes,Gold,Net Banking,Yes,Afternoon,1
+941,34,Female,Safari,17.46,7,260,81.64,Tablet,USA,Instagram,3,172.09,No,Yes,Platinum,UPI,Yes,Morning,1
+942,51,Male,Edge,9.72,3,291,,Tablet,Canada,Instagram,5,61.88,Yes,Yes,Platinum,PayPal,Yes,Morning,2
+943,28,Male,Edge,22.21,5,472,70.91,Mobile,India,Google,5,247.4,Yes,Yes,Platinum,PayPal,Yes,Night,2
+944,42,Male,Firefox,14.97,4,305,72.03,Desktop,Australia,Facebook,9,426.6,No,No,Gold,Credit Card,No,Afternoon,3
+945,38,Male,Edge,9.47,15,76,21.41,Mobile,India,Instagram,5,367.81,Yes,No,Silver,Credit Card,No,Night,5
+946,,Male,Edge,20.13,17,479,11.28,Tablet,Canada,Instagram,2,363.08,Yes,Yes,Platinum,PayPal,Yes,Afternoon,2
+947,32,Female,Firefox,22.5,12,369,74.97,Tablet,India,Facebook,6,189.38,Yes,No,Silver,PayPal,No,Night,1
+948,27,Male,Edge,30.71,14,171,,Desktop,USA,Google,2,357.13,Yes,No,Platinum,PayPal,No,Night,3
+949,22,Male,Safari,21.85,4,249,0.17,Mobile,UK,Instagram,5,238.11,Yes,Yes,Platinum,Credit Card,Yes,Afternoon,4
+950,,Male,Chrome,10.62,17,220,22.36,Mobile,India,Facebook,9,83.64,No,No,Silver,Credit Card,Yes,Morning,3
+951,23,Male,Firefox,16.05,11,279,3.11,Mobile,UK,Facebook,0,215.33,No,Yes,Platinum,Net Banking,Yes,Morning,2
+952,42,Male,Chrome,27.64,6,449,24.92,Tablet,India,Direct,7,75.04,No,Yes,Silver,UPI,No,Evening,2
+953,26,Female,Chrome,11.11,4,113,33.5,Desktop,Canada,Instagram,6,66.1,Yes,No,Gold,UPI,Yes,Afternoon,5
+954,49,Male,Firefox,8.65,13,266,,Mobile,UK,Instagram,8,21.3,No,Yes,Gold,UPI,No,Morning,3
+955,31,Female,Chrome,13.05,15,311,,Tablet,India,Direct,2,148.6,Yes,Yes,Silver,UPI,No,Morning,2
+,38,Male,Chrome,9.93,18,293,23.25,Tablet,Canada,Facebook,7,,No,Yes,Silver,Credit Card,Yes,Afternoon,1
+957,29,Female,Firefox,11.96,17,220,46.75,Mobile,USA,Facebook,1,,Yes,Yes,Gold,Credit Card,No,Morning,1
+958,13,Female,Firefox,11.69,19,419,,Desktop,Australia,Instagram,8,273.62,Yes,No,Silver,PayPal,Yes,Afternoon,3
+959,18,Female,Safari,18.58,10,284,87.92,Desktop,Canada,Instagram,0,430.64,No,Yes,Gold,Net Banking,Yes,Morning,5
+960,16,Female,Firefox,8.52,5,271,,Mobile,Canada,Direct,9,96.47,No,No,Gold,Net Banking,No,Night,3
+961,38,Female,Edge,15.65,12,335,32.65,Tablet,USA,Instagram,6,140.32,No,No,Silver,UPI,Yes,Afternoon,5
+962,35,Female,Chrome,,15,272,59.33,Tablet,UK,Instagram,9,471.13,Yes,No,Platinum,PayPal,Yes,Afternoon,1
+963,41,Female,Firefox,17.75,4,245,91.79,Mobile,India,Google,0,,No,Yes,Silver,PayPal,Yes,Morning,2
+964,,Male,Safari,18.29,8,207,1,Tablet,UK,Direct,5,396.63,No,No,Gold,Credit Card,Yes,Afternoon,4
+965,13,Female,Firefox,19.46,17,519,39.31,Tablet,Canada,Facebook,0,,No,No,Platinum,PayPal,Yes,Evening,2
+966,48,Male,Chrome,19.46,6,379,,Mobile,India,Instagram,3,240.83,No,No,Platinum,Net Banking,Yes,Evening,1
+967,45,Male,Firefox,11.89,16,262,41.05,Tablet,Australia,Facebook,6,82.58,Yes,No,Gold,Net Banking,No,Afternoon,1
+968,39,Male,Chrome,14.98,5,427,72.01,Mobile,Australia,Instagram,1,427.09,Yes,No,Platinum,PayPal,Yes,Evening,2
+969,46,Female,Firefox,22.35,14,352,69.19,Mobile,India,Google,2,48.39,Yes,No,Platinum,Credit Card,No,Morning,2
+970,34,Male,Safari,17.21,2,304,20.55,Mobile,Canada,Direct,3,162.03,No,No,Silver,Net Banking,Yes,Morning,1
+,,Female,Edge,19.44,17,197,44.96,Tablet,USA,Direct,5,,No,Yes,Gold,Credit Card,Yes,Afternoon,2
+972,28,Female,Safari,,6,217,56.62,Mobile,UK,Facebook,8,258.56,No,Yes,Platinum,Credit Card,No,Morning,4
+973,24,Female,Firefox,19.77,11,397,71.55,Tablet,UK,Google,3,441.88,Yes,No,Gold,Net Banking,No,Morning,4
+974,19,Male,Chrome,5.57,2,375,82.24,Mobile,USA,Facebook,5,29.26,No,No,Silver,Credit Card,Yes,Evening,3
+975,27,Male,Safari,7.35,1,163,75.99,Desktop,USA,Google,6,328.21,Yes,Yes,Silver,UPI,Yes,Morning,4
+976,62,Female,Edge,10.5,5,259,2.83,Tablet,Australia,Instagram,3,243.96,No,No,Silver,UPI,No,Morning,1
+,20,Female,Edge,17.13,8,368,67.06,Tablet,USA,Instagram,5,85.61,Yes,No,Platinum,UPI,No,Evening,1
+978,26,Female,Chrome,17.98,4,411,49.73,Tablet,India,Google,2,,Yes,Yes,Silver,PayPal,No,Night,3
+,36,Female,Firefox,10.93,19,351,57.39,Desktop,Australia,Instagram,4,211.54,No,No,Gold,Net Banking,No,Afternoon,5
+980,59,Male,Safari,5.38,5,254,37.3,Mobile,Canada,Direct,9,270.48,No,No,Silver,UPI,Yes,Afternoon,3
+,25,Male,Safari,19.77,5,324,71.4,Desktop,Australia,Google,3,483.96,Yes,No,Platinum,Credit Card,No,Night,5
+982,29,Male,Chrome,17.94,16,279,67.39,Mobile,Australia,Google,6,248.25,Yes,No,Silver,UPI,Yes,Evening,5
+983,42,Male,Safari,17.14,18,338,57.95,Mobile,UK,Facebook,5,413.45,No,Yes,Platinum,Credit Card,No,Evening,2
+984,41,Male,Chrome,24.63,11,448,86.16,Mobile,USA,Google,6,387.09,Yes,No,Gold,Net Banking,Yes,Morning,4
+985,28,Female,Chrome,15.75,17,222,10.19,Mobile,India,Facebook,5,,No,No,Silver,UPI,No,Morning,5
+986,27,Female,Firefox,10.04,3,328,30.1,Mobile,USA,Google,1,449.44,No,Yes,Silver,Net Banking,Yes,Afternoon,2
+,,Male,Chrome,21.64,18,290,49.51,Desktop,UK,Direct,6,133.28,Yes,Yes,Gold,UPI,No,Afternoon,3
+988,32,Female,Safari,12.96,4,274,95.86,Tablet,USA,Direct,7,412.18,Yes,No,Gold,Credit Card,No,Evening,3
+989,38,Male,Chrome,14.47,19,286,7.2,Desktop,India,Direct,6,195.12,No,No,Platinum,Credit Card,No,Morning,5
+990,33,Female,Safari,12.32,9,431,33.71,Tablet,USA,Facebook,3,408.12,Yes,No,Silver,PayPal,No,Evening,2
+991,39,Female,Chrome,10.84,5,358,92.59,Tablet,UK,Facebook,3,251.96,Yes,No,Silver,PayPal,Yes,Night,1
+992,,Female,Firefox,12.89,4,252,89.79,Tablet,India,Instagram,4,430.28,No,No,Silver,PayPal,No,Afternoon,4
+993,16,Male,Firefox,22.6,16,365,86.52,Desktop,USA,Facebook,8,448.47,Yes,No,Silver,UPI,No,Afternoon,5
+994,30,Male,Chrome,9.67,10,244,30.84,Mobile,UK,Facebook,4,302.85,Yes,No,Gold,Net Banking,No,Evening,1
+995,38,Male,Chrome,20.35,9,121,84.68,Mobile,UK,Direct,1,258.74,Yes,Yes,Silver,UPI,Yes,Morning,4
+996,43,Female,Chrome,5.75,16,70,50.53,Tablet,Australia,Google,4,393.81,Yes,Yes,Silver,Credit Card,Yes,Morning,1
+997,32,Female,Firefox,23,17,350,61.98,Mobile,India,Facebook,2,,No,No,Silver,Net Banking,No,Night,2
+998,17,Female,Edge,23.53,18,272,23.88,Mobile,India,Instagram,9,17.52,Yes,No,Platinum,Credit Card,Yes,Night,5
+999,47,Female,Chrome,9.88,15,400,70.67,Desktop,USA,Google,7,209.48,Yes,No,Platinum,PayPal,Yes,Night,1
+1000,44,Female,Edge,15.39,9,339,32.77,Mobile,Australia,Facebook,9,258.81,Yes,No,Platinum,Credit Card,Yes,Evening,1
+508,,Female,Firefox,15.72,17,217,62.43,Tablet,India,Facebook,0,308.5,Yes,Yes,Gold,Credit Card,Yes,Evening,4
+819,25,Male,Firefox,20.14,4,347,19.68,Mobile,Canada,Instagram,6,251.76,No,Yes,Gold,PayPal,No,Night,2
+453,43,Female,Safari,17.82,15,312,28.29,Desktop,UK,Facebook,8,445.87,Yes,No,Gold,UPI,Yes,Morning,4
+369,36,Female,Safari,14.86,4,398,3.42,Desktop,Australia,Google,3,1054.7,No,No,Platinum,Net Banking,Yes,Afternoon,2
+243,36,Male,Edge,,13,202,31.88,Mobile,Australia,Google,6,73.23,No,No,Platinum,Net Banking,Yes,Evening,2
+,40,Male,Chrome,13.63,16,226,65.53,Mobile,India,Facebook,5,56.11,Yes,No,Gold,UPI,No,Night,4
+263,34,Male,Safari,19.62,16,362,72.12,Tablet,Australia,Facebook,9,159.28,Yes,Yes,Platinum,Credit Card,No,Morning,3
+811,32,Female,Edge,12.7,19,188,74.31,Mobile,India,Facebook,9,91.67,Yes,Yes,Gold,UPI,No,Afternoon,5
+319,36,Male,Safari,5.45,3,477,,Desktop,Canada,Facebook,7,140.25,No,No,Gold,PayPal,No,Afternoon,3
+,25,Female,Chrome,15.72,5,372,95.32,Desktop,USA,Instagram,4,55.73,Yes,No,Silver,PayPal,Yes,Morning,1
